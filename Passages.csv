@@ -1,0 +1,2198 @@
+ID Client,Date Passage,Etablissement,Designation,Quantite,Type Forfait
+1000,2022-12-29,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1000,2022-02-09,Arkose Lyon,Pack 10 séances,1,Pack
+1000,2022-12-21,Arkose Paris,Abonnement mensuel,1,Abonnement
+1001,2023-09-30,Arkose Paris,Abonnement mensuel,1,Abonnement
+1001,2023-11-08,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1001,2023-09-23,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1001,2023-10-02,Arkose Bordeaux,Abonnement mensuel,3,Abonnement
+1001,2023-09-30,Arkose Paris,Pack 10 séances,3,Pack
+1001,2023-10-15,Arkose Lyon,Pack 10 séances,2,Pack
+1001,2023-12-28,Arkose Paris,Abonnement mensuel,1,Abonnement
+1001,2023-09-27,Arkose Lyon,Pack 10 séances,2,Pack
+1001,2023-12-19,Arkose Paris,Pack 10 séances,1,Pack
+1001,2023-09-24,Arkose Paris,Pack 10 séances,1,Pack
+1001,2023-09-04,Arkose Paris,Abonnement mensuel,3,Abonnement
+1002,2023-10-10,Arkose Paris,Pack 10 séances,2,Pack
+1002,2023-10-19,Arkose Paris,Pack 10 séances,2,Pack
+1002,2023-09-29,Arkose Bordeaux,1 séance plein tarif,3,Unité
+1002,2023-10-16,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1002,2023-09-25,Arkose Paris,Pack 10 séances,1,Pack
+1002,2023-10-30,Arkose Lyon,1 séance plein tarif,2,Unité
+1002,2023-11-03,Arkose Paris,Abonnement mensuel,2,Abonnement
+1002,2023-10-16,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1002,2023-10-05,Arkose Lyon,Pack 10 séances,2,Pack
+1003,2022-11-06,Arkose Lyon,Pack 10 séances,1,Pack
+1004,2023-09-05,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1004,2023-11-24,Arkose Paris,1 séance plein tarif,1,Unité
+1004,2023-10-22,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1004,2023-11-30,Arkose Lyon,1 séance plein tarif,2,Unité
+1004,2023-11-25,Arkose Lyon,Pack 10 séances,2,Pack
+1004,2023-11-30,Arkose Paris,Pack 10 séances,2,Pack
+1004,2023-10-20,Arkose Paris,1 séance plein tarif,1,Unité
+1004,2023-09-24,Arkose Paris,Pack 10 séances,1,Pack
+1004,2023-12-25,Arkose Paris,Abonnement mensuel,2,Abonnement
+1004,2023-12-31,Arkose Paris,Pack 10 séances,1,Pack
+1004,2023-12-07,Arkose Paris,Abonnement mensuel,1,Abonnement
+1004,2023-10-20,Arkose Paris,Abonnement mensuel,1,Abonnement
+1004,2023-10-04,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1004,2023-11-01,Arkose Paris,Abonnement mensuel,2,Abonnement
+1005,2023-08-22,Arkose Bordeaux,Pack 10 séances,1,Pack
+1005,2023-10-02,Arkose Paris,Abonnement mensuel,1,Abonnement
+1005,2023-03-12,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1005,2023-09-23,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1005,2024-01-01,Arkose Bordeaux,Pack 10 séances,1,Pack
+1005,2023-08-06,Arkose Paris,Pack 10 séances,1,Pack
+1005,2023-09-07,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1006,2022-12-12,Arkose Paris,Pack 10 séances,3,Pack
+1006,2022-04-02,Arkose Paris,Pack 10 séances,1,Pack
+1007,2023-11-11,Arkose Paris,1 séance plein tarif,1,Unité
+1007,2023-10-31,Arkose Paris,Abonnement mensuel,1,Abonnement
+1007,2023-11-14,Arkose Paris,1 séance plein tarif,1,Unité
+1007,2023-09-06,Arkose Bordeaux,Pack 10 séances,1,Pack
+1007,2023-10-23,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1007,2023-11-07,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1007,2023-11-18,Arkose Paris,1 séance plein tarif,1,Unité
+1007,2024-01-01,Arkose Lyon,Pack 10 séances,1,Pack
+1007,2023-10-02,Arkose Paris,Pack 10 séances,2,Pack
+1007,2023-12-29,Arkose Paris,1 séance plein tarif,3,Unité
+1007,2023-12-01,Arkose Paris,1 séance plein tarif,1,Unité
+1007,2023-09-27,Arkose Paris,Abonnement mensuel,2,Abonnement
+1007,2023-10-01,Arkose Paris,Pack 10 séances,1,Pack
+1007,2023-10-07,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1008,2023-11-12,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1008,2023-09-28,Arkose Bordeaux,Pack 10 séances,2,Pack
+1008,2022-10-07,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1009,2023-12-26,Arkose Lyon,Pack 10 séances,2,Pack
+1009,2023-09-12,Arkose Paris,Pack 10 séances,1,Pack
+1009,2023-12-31,Arkose Bordeaux,Pack 10 séances,1,Pack
+1009,2023-12-31,Arkose Paris,Abonnement mensuel,2,Abonnement
+1009,2023-11-26,Arkose Paris,Pack 10 séances,1,Pack
+1009,2023-11-19,Arkose Paris,1 séance plein tarif,2,Unité
+1009,2023-10-13,Arkose Bordeaux,Pack 10 séances,2,Pack
+1009,2023-09-28,Arkose Paris,Abonnement mensuel,1,Abonnement
+1009,2023-11-23,Arkose Lyon,Pack 10 séances,1,Pack
+1010,2023-12-29,Arkose Paris,1 séance plein tarif,1,Unité
+1010,2023-03-15,Arkose Paris,1 séance plein tarif,1,Unité
+1010,2023-11-22,Arkose Paris,Pack 10 séances,1,Pack
+1010,2023-10-18,Arkose Paris,Abonnement mensuel,1,Abonnement
+1010,2023-03-21,Arkose Bordeaux,Pack 10 séances,1,Pack
+1010,2023-07-13,Arkose Bordeaux,Pack 10 séances,2,Pack
+1010,2023-11-17,Arkose Paris,Abonnement mensuel,2,Abonnement
+1010,2023-07-05,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1010,2023-03-12,Arkose Paris,1 séance plein tarif,2,Unité
+1011,2023-09-26,Arkose Paris,1 séance plein tarif,1,Unité
+1011,2023-03-19,Arkose Paris,Pack 10 séances,1,Pack
+1011,2023-05-03,Arkose Paris,Pack 10 séances,1,Pack
+1011,2023-06-15,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1011,2023-12-16,Arkose Paris,Pack 10 séances,1,Pack
+1011,2023-12-08,Arkose Paris,1 séance plein tarif,2,Unité
+1011,2023-07-14,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1011,2023-09-23,Arkose Paris,1 séance plein tarif,1,Unité
+1011,2023-11-06,Arkose Paris,Abonnement mensuel,1,Abonnement
+1012,2022-03-12,Arkose Lyon,Pack 10 séances,1,Pack
+1012,2023-06-16,Arkose Paris,Pack 10 séances,1,Pack
+1012,2022-08-31,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1012,2022-11-27,Arkose Paris,Pack 10 séances,3,Pack
+1013,2023-12-26,Arkose Paris,1 séance plein tarif,3,Unité
+1013,2023-10-07,Arkose Lyon,Pack 10 séances,1,Pack
+1013,2023-09-25,Arkose Paris,1 séance plein tarif,1,Unité
+1013,2023-12-02,Arkose Paris,Pack 10 séances,1,Pack
+1013,2023-12-30,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1013,2023-09-16,Arkose Lyon,1 séance plein tarif,1,Unité
+1013,2023-10-08,Arkose Paris,Pack 10 séances,2,Pack
+1013,2023-11-21,Arkose Bordeaux,Pack 10 séances,1,Pack
+1013,2023-11-29,Arkose Paris,1 séance plein tarif,1,Unité
+1013,2023-12-01,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1013,2023-12-04,Arkose Lyon,Pack 10 séances,1,Pack
+1013,2023-11-06,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1014,2023-09-21,Arkose Lyon,Pack 10 séances,1,Pack
+1014,2023-11-18,Arkose Paris,Abonnement mensuel,1,Abonnement
+1014,2023-11-01,Arkose Lyon,Abonnement mensuel,3,Abonnement
+1014,2023-10-15,Arkose Paris,Abonnement mensuel,1,Abonnement
+1014,2023-12-21,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1014,2023-10-24,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1014,2023-11-01,Arkose Lyon,Abonnement mensuel,3,Abonnement
+1014,2023-11-04,Arkose Paris,1 séance plein tarif,1,Unité
+1014,2023-09-09,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1014,2023-10-04,Arkose Paris,1 séance plein tarif,2,Unité
+1014,2023-12-28,Arkose Paris,1 séance plein tarif,2,Unité
+1014,2023-09-25,Arkose Lyon,Pack 10 séances,1,Pack
+1014,2023-11-28,Arkose Lyon,Pack 10 séances,1,Pack
+1014,2023-12-01,Arkose Paris,Pack 10 séances,2,Pack
+1015,2023-12-19,Arkose Bordeaux,Pack 10 séances,1,Pack
+1015,2023-10-02,Arkose Paris,Abonnement mensuel,2,Abonnement
+1015,2023-11-21,Arkose Bordeaux,Pack 10 séances,1,Pack
+1015,2023-11-04,Arkose Paris,Abonnement mensuel,1,Abonnement
+1015,2023-12-28,Arkose Paris,Pack 10 séances,3,Pack
+1015,2023-11-15,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1015,2023-11-23,Arkose Bordeaux,Pack 10 séances,3,Pack
+1015,2023-10-27,Arkose Paris,Pack 10 séances,1,Pack
+1015,2023-09-15,Arkose Lyon,Pack 10 séances,2,Pack
+1015,2023-10-02,Arkose Bordeaux,1 séance plein tarif,2,Unité
+1015,2023-09-17,Arkose Paris,1 séance plein tarif,1,Unité
+1016,2023-12-26,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1016,2023-12-02,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1016,2023-07-28,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1016,2023-10-17,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1016,2023-11-17,Arkose Paris,Pack 10 séances,1,Pack
+1016,2023-06-28,Arkose Paris,1 séance plein tarif,1,Unité
+1016,2023-10-20,Arkose Paris,1 séance plein tarif,1,Unité
+1017,2023-10-01,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1017,2023-10-26,Arkose Paris,Pack 10 séances,1,Pack
+1017,2023-12-23,Arkose Paris,Abonnement mensuel,1,Abonnement
+1017,2023-10-12,Arkose Bordeaux,1 séance plein tarif,3,Unité
+1017,2023-11-27,Arkose Lyon,Pack 10 séances,1,Pack
+1017,2023-12-04,Arkose Paris,Abonnement mensuel,1,Abonnement
+1017,2023-11-12,Arkose Paris,Abonnement mensuel,1,Abonnement
+1017,2023-09-26,Arkose Bordeaux,Pack 10 séances,1,Pack
+1017,2023-11-24,Arkose Lyon,1 séance plein tarif,1,Unité
+1017,2023-12-01,Arkose Paris,Pack 10 séances,1,Pack
+1017,2023-12-06,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1017,2023-10-01,Arkose Bordeaux,Pack 10 séances,1,Pack
+1018,2023-10-25,Arkose Bordeaux,Pack 10 séances,2,Pack
+1018,2023-12-18,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1018,2023-12-09,Arkose Paris,1 séance plein tarif,1,Unité
+1018,2023-10-22,Arkose Paris,Abonnement mensuel,1,Abonnement
+1018,2023-12-25,Arkose Lyon,1 séance plein tarif,2,Unité
+1018,2023-12-30,Arkose Lyon,Abonnement mensuel,3,Abonnement
+1018,2023-12-30,Arkose Paris,Pack 10 séances,1,Pack
+1018,2023-10-23,Arkose Paris,Pack 10 séances,1,Pack
+1019,2023-11-03,Arkose Paris,Pack 10 séances,1,Pack
+1019,2023-10-06,Arkose Paris,1 séance plein tarif,1,Unité
+1019,2023-12-12,Arkose Paris,Abonnement mensuel,1,Abonnement
+1019,2023-09-29,Arkose Lyon,Pack 10 séances,2,Pack
+1019,2023-09-22,Arkose Bordeaux,Pack 10 séances,2,Pack
+1019,2023-11-22,Arkose Paris,1 séance plein tarif,1,Unité
+1019,2023-10-14,Arkose Paris,Abonnement mensuel,1,Abonnement
+1019,2023-11-23,Arkose Paris,Abonnement mensuel,1,Abonnement
+1020,2023-12-03,Arkose Paris,Abonnement mensuel,1,Abonnement
+1020,2023-10-28,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1020,2023-12-18,Arkose Paris,Abonnement mensuel,1,Abonnement
+1020,2023-10-19,Arkose Paris,1 séance plein tarif,1,Unité
+1020,2023-10-21,Arkose Paris,Pack 10 séances,2,Pack
+1020,2023-12-25,Arkose Bordeaux,Pack 10 séances,2,Pack
+1020,2023-09-13,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1020,2023-12-29,Arkose Lyon,1 séance plein tarif,1,Unité
+1020,2023-11-22,Arkose Paris,Pack 10 séances,2,Pack
+1020,2023-12-21,Arkose Paris,Abonnement mensuel,2,Abonnement
+1020,2023-12-14,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1020,2023-09-05,Arkose Paris,Abonnement mensuel,1,Abonnement
+1021,2023-12-11,Arkose Paris,Pack 10 séances,1,Pack
+1021,2023-12-05,Arkose Paris,Pack 10 séances,1,Pack
+1021,2023-10-31,Arkose Paris,1 séance plein tarif,1,Unité
+1021,2023-10-09,Arkose Lyon,Pack 10 séances,1,Pack
+1021,2023-12-29,Arkose Lyon,1 séance plein tarif,1,Unité
+1021,2023-11-13,Arkose Bordeaux,Pack 10 séances,1,Pack
+1021,2023-09-07,Arkose Paris,Pack 10 séances,1,Pack
+1021,2023-11-27,Arkose Paris,Abonnement mensuel,1,Abonnement
+1021,2023-09-06,Arkose Paris,Abonnement mensuel,1,Abonnement
+1021,2023-12-12,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1022,2023-03-10,Arkose Paris,1 séance plein tarif,1,Unité
+1022,2022-06-28,Arkose Paris,1 séance plein tarif,1,Unité
+1022,2022-08-16,Arkose Lyon,Pack 10 séances,1,Pack
+1023,2023-12-05,Arkose Paris,Pack 10 séances,1,Pack
+1023,2023-07-22,Arkose Bordeaux,Pack 10 séances,1,Pack
+1023,2023-06-21,Arkose Paris,Abonnement mensuel,1,Abonnement
+1023,2023-04-20,Arkose Paris,Pack 10 séances,3,Pack
+1024,2023-10-10,Arkose Paris,Pack 10 séances,1,Pack
+1024,2023-10-18,Arkose Paris,1 séance plein tarif,2,Unité
+1024,2023-12-05,Arkose Bordeaux,Pack 10 séances,1,Pack
+1024,2023-12-13,Arkose Paris,Abonnement mensuel,1,Abonnement
+1024,2023-12-13,Arkose Paris,Pack 10 séances,1,Pack
+1024,2023-09-23,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1024,2023-10-16,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1024,2023-11-20,Arkose Paris,Abonnement mensuel,3,Abonnement
+1024,2023-11-24,Arkose Paris,Pack 10 séances,1,Pack
+1024,2023-11-19,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1024,2023-11-11,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1024,2023-09-10,Arkose Paris,Pack 10 séances,1,Pack
+1024,2023-09-22,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1025,2022-11-01,Arkose Lyon,Pack 10 séances,1,Pack
+1025,2022-03-25,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1026,2024-01-01,Arkose Paris,Pack 10 séances,1,Pack
+1026,2023-10-25,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1026,2022-06-06,Arkose Bordeaux,Pack 10 séances,2,Pack
+1026,2022-05-27,Arkose Paris,Abonnement mensuel,1,Abonnement
+1027,2023-08-23,Arkose Lyon,1 séance plein tarif,2,Unité
+1027,2023-03-29,Arkose Paris,1 séance plein tarif,1,Unité
+1027,2023-10-05,Arkose Paris,Pack 10 séances,1,Pack
+1027,2023-08-12,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1027,2023-05-23,Arkose Paris,Abonnement mensuel,1,Abonnement
+1027,2023-09-14,Arkose Lyon,1 séance plein tarif,1,Unité
+1027,2023-10-09,Arkose Bordeaux,Pack 10 séances,1,Pack
+1027,2023-09-07,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1027,2023-03-15,Arkose Paris,Pack 10 séances,1,Pack
+1028,2023-12-12,Arkose Paris,Abonnement mensuel,1,Abonnement
+1028,2023-08-31,Arkose Bordeaux,Pack 10 séances,1,Pack
+1028,2023-03-31,Arkose Paris,Abonnement mensuel,1,Abonnement
+1028,2023-11-11,Arkose Lyon,1 séance plein tarif,1,Unité
+1028,2023-08-19,Arkose Paris,Pack 10 séances,2,Pack
+1028,2023-10-17,Arkose Paris,Abonnement mensuel,1,Abonnement
+1028,2023-09-16,Arkose Paris,Pack 10 séances,2,Pack
+1028,2023-05-06,Arkose Lyon,Abonnement mensuel,3,Abonnement
+1028,2023-04-14,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1029,2023-09-05,Arkose Lyon,Pack 10 séances,1,Pack
+1029,2023-12-07,Arkose Paris,Pack 10 séances,1,Pack
+1029,2023-11-21,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1029,2023-11-26,Arkose Paris,Pack 10 séances,2,Pack
+1029,2023-11-24,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1029,2023-09-27,Arkose Paris,Abonnement mensuel,1,Abonnement
+1029,2023-09-16,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1029,2023-11-15,Arkose Paris,Abonnement mensuel,1,Abonnement
+1029,2023-12-22,Arkose Paris,Abonnement mensuel,1,Abonnement
+1029,2023-12-08,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1029,2023-10-27,Arkose Paris,Pack 10 séances,2,Pack
+1029,2023-10-19,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1030,2023-03-20,Arkose Paris,Abonnement mensuel,1,Abonnement
+1030,2023-01-14,Arkose Lyon,Pack 10 séances,1,Pack
+1031,2023-10-26,Arkose Paris,1 séance plein tarif,1,Unité
+1031,2023-11-19,Arkose Paris,Pack 10 séances,2,Pack
+1031,2023-11-13,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1031,2023-10-08,Arkose Lyon,1 séance plein tarif,1,Unité
+1031,2023-10-13,Arkose Bordeaux,Pack 10 séances,1,Pack
+1031,2023-12-11,Arkose Lyon,1 séance plein tarif,1,Unité
+1031,2023-12-02,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1031,2023-12-03,Arkose Paris,1 séance plein tarif,1,Unité
+1031,2023-12-21,Arkose Bordeaux,Pack 10 séances,1,Pack
+1031,2023-12-10,Arkose Paris,Abonnement mensuel,3,Abonnement
+1031,2023-09-20,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1031,2023-10-10,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1031,2023-11-30,Arkose Lyon,Pack 10 séances,1,Pack
+1031,2023-12-19,Arkose Paris,Abonnement mensuel,1,Abonnement
+1032,2023-10-03,Arkose Paris,Pack 10 séances,2,Pack
+1032,2023-11-01,Arkose Paris,Pack 10 séances,1,Pack
+1032,2023-11-28,Arkose Lyon,Pack 10 séances,1,Pack
+1032,2023-09-08,Arkose Paris,1 séance plein tarif,1,Unité
+1032,2023-10-12,Arkose Lyon,Pack 10 séances,1,Pack
+1032,2023-10-16,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1032,2023-10-21,Arkose Paris,Abonnement mensuel,1,Abonnement
+1032,2023-11-28,Arkose Paris,1 séance plein tarif,1,Unité
+1032,2023-12-08,Arkose Lyon,Pack 10 séances,1,Pack
+1033,2023-09-14,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1033,2023-12-08,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1033,2023-12-08,Arkose Paris,Abonnement mensuel,2,Abonnement
+1033,2023-08-27,Arkose Paris,Abonnement mensuel,1,Abonnement
+1034,2023-07-26,Arkose Paris,Pack 10 séances,1,Pack
+1034,2023-03-21,Arkose Paris,1 séance plein tarif,1,Unité
+1034,2023-08-25,Arkose Paris,1 séance plein tarif,1,Unité
+1034,2023-10-11,Arkose Paris,Abonnement mensuel,2,Abonnement
+1034,2023-04-14,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1034,2023-09-21,Arkose Paris,Abonnement mensuel,1,Abonnement
+1034,2023-05-26,Arkose Lyon,Pack 10 séances,1,Pack
+1035,2023-10-31,Arkose Paris,Abonnement mensuel,1,Abonnement
+1035,2023-10-02,Arkose Paris,Abonnement mensuel,1,Abonnement
+1035,2023-12-28,Arkose Paris,Pack 10 séances,1,Pack
+1035,2023-09-06,Arkose Lyon,Pack 10 séances,1,Pack
+1035,2023-09-04,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1035,2023-09-10,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1035,2023-12-01,Arkose Paris,Abonnement mensuel,1,Abonnement
+1035,2023-10-31,Arkose Paris,Abonnement mensuel,1,Abonnement
+1035,2023-10-26,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1035,2023-09-25,Arkose Paris,Abonnement mensuel,1,Abonnement
+1035,2023-12-12,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1036,2023-08-26,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1036,2023-05-05,Arkose Paris,1 séance plein tarif,1,Unité
+1036,2023-06-13,Arkose Paris,Abonnement mensuel,1,Abonnement
+1036,2023-10-15,Arkose Bordeaux,Pack 10 séances,2,Pack
+1037,2023-10-29,Arkose Paris,Abonnement mensuel,1,Abonnement
+1037,2023-10-07,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1037,2023-12-09,Arkose Paris,Pack 10 séances,1,Pack
+1037,2023-12-02,Arkose Paris,Abonnement mensuel,2,Abonnement
+1037,2023-12-26,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1037,2023-12-28,Arkose Lyon,1 séance plein tarif,1,Unité
+1037,2023-11-25,Arkose Paris,Pack 10 séances,2,Pack
+1037,2023-12-25,Arkose Lyon,Pack 10 séances,1,Pack
+1037,2023-11-13,Arkose Paris,Abonnement mensuel,1,Abonnement
+1037,2023-09-19,Arkose Lyon,Pack 10 séances,1,Pack
+1037,2023-09-10,Arkose Paris,Abonnement mensuel,1,Abonnement
+1038,2023-11-10,Arkose Bordeaux,Pack 10 séances,1,Pack
+1038,2023-09-26,Arkose Paris,Abonnement mensuel,3,Abonnement
+1038,2023-11-08,Arkose Paris,Abonnement mensuel,1,Abonnement
+1038,2023-10-05,Arkose Paris,Abonnement mensuel,3,Abonnement
+1038,2023-11-19,Arkose Paris,1 séance plein tarif,1,Unité
+1038,2023-09-25,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1038,2023-12-21,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1038,2023-12-12,Arkose Bordeaux,Pack 10 séances,1,Pack
+1038,2023-12-10,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1038,2023-09-17,Arkose Paris,Pack 10 séances,2,Pack
+1038,2023-12-31,Arkose Paris,Pack 10 séances,2,Pack
+1038,2023-09-29,Arkose Paris,Abonnement mensuel,1,Abonnement
+1039,2023-06-27,Arkose Lyon,Pack 10 séances,1,Pack
+1039,2023-12-10,Arkose Lyon,1 séance plein tarif,1,Unité
+1039,2023-08-27,Arkose Paris,Abonnement mensuel,1,Abonnement
+1039,2023-10-22,Arkose Paris,Pack 10 séances,3,Pack
+1039,2023-09-20,Arkose Paris,1 séance plein tarif,1,Unité
+1039,2023-12-23,Arkose Lyon,1 séance plein tarif,1,Unité
+1039,2023-10-28,Arkose Paris,1 séance plein tarif,1,Unité
+1039,2023-10-08,Arkose Bordeaux,1 séance plein tarif,2,Unité
+1040,2023-11-29,Arkose Lyon,Pack 10 séances,2,Pack
+1040,2023-09-29,Arkose Paris,1 séance plein tarif,3,Unité
+1040,2023-12-29,Arkose Paris,Pack 10 séances,2,Pack
+1040,2023-09-06,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1040,2023-09-20,Arkose Paris,Abonnement mensuel,1,Abonnement
+1040,2023-11-03,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1040,2023-12-29,Arkose Lyon,Pack 10 séances,1,Pack
+1040,2023-11-05,Arkose Lyon,Pack 10 séances,1,Pack
+1041,2023-07-27,Arkose Paris,Abonnement mensuel,1,Abonnement
+1041,2023-06-05,Arkose Paris,Abonnement mensuel,2,Abonnement
+1041,2023-09-07,Arkose Lyon,Pack 10 séances,1,Pack
+1041,2023-05-19,Arkose Paris,Pack 10 séances,1,Pack
+1041,2023-09-08,Arkose Paris,1 séance plein tarif,2,Unité
+1042,2023-07-25,Arkose Paris,Pack 10 séances,2,Pack
+1042,2022-11-29,Arkose Paris,1 séance plein tarif,1,Unité
+1043,2023-11-02,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1043,2023-04-23,Arkose Lyon,Pack 10 séances,3,Pack
+1043,2023-11-12,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1043,2023-10-25,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1043,2023-10-20,Arkose Bordeaux,Pack 10 séances,1,Pack
+1043,2023-08-29,Arkose Lyon,Pack 10 séances,1,Pack
+1043,2023-09-24,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1043,2023-06-28,Arkose Paris,1 séance plein tarif,1,Unité
+1044,2023-09-18,Arkose Paris,Abonnement mensuel,1,Abonnement
+1044,2023-10-02,Arkose Lyon,1 séance plein tarif,1,Unité
+1044,2023-09-29,Arkose Paris,1 séance plein tarif,1,Unité
+1044,2023-11-18,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1044,2023-09-17,Arkose Paris,Pack 10 séances,1,Pack
+1044,2023-12-26,Arkose Paris,Abonnement mensuel,2,Abonnement
+1044,2023-10-19,Arkose Bordeaux,Pack 10 séances,3,Pack
+1044,2023-11-21,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1044,2023-11-26,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1044,2023-10-04,Arkose Paris,Abonnement mensuel,1,Abonnement
+1044,2023-10-09,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1045,2023-09-18,Arkose Paris,Pack 10 séances,1,Pack
+1045,2023-12-09,Arkose Paris,1 séance plein tarif,2,Unité
+1045,2023-11-22,Arkose Lyon,Pack 10 séances,1,Pack
+1045,2023-09-14,Arkose Paris,Pack 10 séances,1,Pack
+1045,2023-12-31,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1045,2023-12-17,Arkose Paris,Pack 10 séances,1,Pack
+1045,2023-10-06,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1045,2023-09-25,Arkose Paris,1 séance plein tarif,1,Unité
+1045,2023-12-26,Arkose Bordeaux,Pack 10 séances,2,Pack
+1045,2023-09-08,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1045,2023-10-08,Arkose Paris,Abonnement mensuel,3,Abonnement
+1046,2023-12-07,Arkose Lyon,Pack 10 séances,1,Pack
+1046,2023-11-19,Arkose Lyon,Pack 10 séances,1,Pack
+1046,2023-03-29,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1046,2023-04-10,Arkose Paris,Pack 10 séances,1,Pack
+1046,2023-03-11,Arkose Lyon,Pack 10 séances,2,Pack
+1046,2023-11-16,Arkose Paris,1 séance plein tarif,1,Unité
+1046,2023-04-09,Arkose Paris,Pack 10 séances,1,Pack
+1047,2023-11-23,Arkose Lyon,Pack 10 séances,1,Pack
+1047,2022-07-31,Arkose Bordeaux,Pack 10 séances,1,Pack
+1047,2023-04-17,Arkose Lyon,1 séance plein tarif,2,Unité
+1048,2023-11-17,Arkose Paris,1 séance plein tarif,1,Unité
+1048,2023-09-07,Arkose Lyon,Pack 10 séances,1,Pack
+1048,2023-09-22,Arkose Bordeaux,Pack 10 séances,1,Pack
+1048,2023-10-25,Arkose Lyon,Pack 10 séances,2,Pack
+1048,2023-11-29,Arkose Paris,Abonnement mensuel,3,Abonnement
+1048,2023-10-02,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1048,2023-10-11,Arkose Lyon,1 séance plein tarif,3,Unité
+1048,2023-09-16,Arkose Paris,Abonnement mensuel,1,Abonnement
+1048,2023-12-30,Arkose Bordeaux,Pack 10 séances,1,Pack
+1048,2023-12-05,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1049,2023-11-12,Arkose Paris,Pack 10 séances,1,Pack
+1049,2023-11-15,Arkose Lyon,Pack 10 séances,2,Pack
+1049,2023-09-30,Arkose Bordeaux,Pack 10 séances,1,Pack
+1049,2023-12-17,Arkose Paris,Abonnement mensuel,1,Abonnement
+1049,2023-11-16,Arkose Paris,1 séance plein tarif,1,Unité
+1049,2023-10-22,Arkose Paris,Abonnement mensuel,1,Abonnement
+1049,2023-11-05,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1049,2023-09-25,Arkose Lyon,Pack 10 séances,2,Pack
+1050,2022-06-30,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1051,2023-04-26,Arkose Paris,Abonnement mensuel,1,Abonnement
+1051,2023-11-17,Arkose Paris,1 séance plein tarif,1,Unité
+1051,2023-11-28,Arkose Paris,1 séance plein tarif,1,Unité
+1051,2023-03-27,Arkose Paris,Abonnement mensuel,3,Abonnement
+1051,2023-08-05,Arkose Bordeaux,Abonnement mensuel,3,Abonnement
+1051,2023-04-02,Arkose Bordeaux,Abonnement mensuel,3,Abonnement
+1051,2023-10-31,Arkose Lyon,Pack 10 séances,1,Pack
+1051,2023-04-02,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1051,2023-07-22,Arkose Paris,Abonnement mensuel,1,Abonnement
+1052,2023-08-13,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1052,2023-05-25,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1052,2023-12-31,Arkose Lyon,Pack 10 séances,2,Pack
+1052,2023-08-28,Arkose Lyon,Pack 10 séances,2,Pack
+1053,2023-11-28,Arkose Paris,1 séance plein tarif,1,Unité
+1053,2023-12-12,Arkose Paris,1 séance plein tarif,1,Unité
+1053,2023-11-30,Arkose Lyon,Pack 10 séances,1,Pack
+1053,2023-11-28,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1053,2023-11-18,Arkose Lyon,Abonnement mensuel,3,Abonnement
+1053,2023-11-17,Arkose Lyon,Pack 10 séances,2,Pack
+1053,2023-10-01,Arkose Paris,1 séance plein tarif,1,Unité
+1053,2023-12-04,Arkose Lyon,Pack 10 séances,1,Pack
+1053,2023-12-29,Arkose Paris,Pack 10 séances,1,Pack
+1053,2023-10-28,Arkose Paris,Pack 10 séances,3,Pack
+1053,2023-10-22,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1054,2023-12-27,Arkose Paris,Abonnement mensuel,1,Abonnement
+1054,2023-10-29,Arkose Paris,Pack 10 séances,1,Pack
+1054,2023-12-19,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1054,2023-12-20,Arkose Lyon,1 séance plein tarif,1,Unité
+1054,2023-12-25,Arkose Paris,Abonnement mensuel,1,Abonnement
+1054,2023-10-09,Arkose Paris,Abonnement mensuel,1,Abonnement
+1054,2023-11-09,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1054,2023-11-22,Arkose Bordeaux,Pack 10 séances,2,Pack
+1054,2023-11-08,Arkose Bordeaux,Pack 10 séances,2,Pack
+1054,2023-12-14,Arkose Paris,1 séance plein tarif,1,Unité
+1054,2023-11-23,Arkose Paris,Pack 10 séances,3,Pack
+1055,2022-10-14,Arkose Paris,1 séance plein tarif,3,Unité
+1055,2023-04-27,Arkose Lyon,1 séance plein tarif,1,Unité
+1055,2022-03-03,Arkose Paris,Abonnement mensuel,1,Abonnement
+1055,2022-03-15,Arkose Paris,Abonnement mensuel,1,Abonnement
+1056,2023-09-13,Arkose Paris,1 séance plein tarif,1,Unité
+1056,2023-09-09,Arkose Paris,1 séance plein tarif,1,Unité
+1056,2023-09-19,Arkose Lyon,1 séance plein tarif,1,Unité
+1056,2023-12-19,Arkose Lyon,1 séance plein tarif,1,Unité
+1056,2023-12-05,Arkose Paris,Pack 10 séances,2,Pack
+1056,2023-10-01,Arkose Paris,Pack 10 séances,1,Pack
+1056,2023-10-13,Arkose Lyon,Pack 10 séances,1,Pack
+1056,2023-11-08,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1056,2023-11-14,Arkose Paris,Pack 10 séances,2,Pack
+1056,2023-11-25,Arkose Bordeaux,Pack 10 séances,1,Pack
+1057,2023-09-02,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1057,2023-06-21,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1057,2023-10-19,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1057,2023-09-24,Arkose Paris,Pack 10 séances,1,Pack
+1058,2023-10-26,Arkose Paris,1 séance plein tarif,3,Unité
+1058,2023-12-14,Arkose Paris,Pack 10 séances,1,Pack
+1058,2023-11-20,Arkose Paris,1 séance plein tarif,1,Unité
+1058,2023-09-11,Arkose Lyon,Pack 10 séances,1,Pack
+1058,2023-09-08,Arkose Lyon,Pack 10 séances,1,Pack
+1058,2023-09-11,Arkose Paris,Pack 10 séances,1,Pack
+1058,2023-11-04,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1058,2023-11-17,Arkose Paris,Abonnement mensuel,1,Abonnement
+1058,2023-11-13,Arkose Paris,Abonnement mensuel,1,Abonnement
+1058,2023-11-21,Arkose Bordeaux,Abonnement mensuel,3,Abonnement
+1058,2023-09-23,Arkose Paris,Pack 10 séances,3,Pack
+1058,2023-10-21,Arkose Bordeaux,Abonnement mensuel,3,Abonnement
+1058,2023-09-08,Arkose Paris,1 séance plein tarif,2,Unité
+1058,2023-10-25,Arkose Paris,Pack 10 séances,1,Pack
+1059,2023-01-24,Arkose Paris,Abonnement mensuel,1,Abonnement
+1059,2022-06-18,Arkose Paris,Pack 10 séances,1,Pack
+1059,2022-07-18,Arkose Bordeaux,Pack 10 séances,1,Pack
+1060,2023-09-13,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1060,2023-09-25,Arkose Bordeaux,Pack 10 séances,1,Pack
+1060,2023-04-27,Arkose Paris,Pack 10 séances,1,Pack
+1060,2023-12-28,Arkose Paris,Pack 10 séances,1,Pack
+1060,2023-10-30,Arkose Lyon,Pack 10 séances,1,Pack
+1060,2023-11-16,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1060,2023-12-28,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1060,2023-12-21,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1061,2023-09-28,Arkose Paris,Abonnement mensuel,1,Abonnement
+1061,2023-10-19,Arkose Paris,1 séance plein tarif,1,Unité
+1061,2023-10-19,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1061,2023-11-10,Arkose Bordeaux,Pack 10 séances,2,Pack
+1061,2023-09-13,Arkose Lyon,1 séance plein tarif,1,Unité
+1061,2023-10-21,Arkose Paris,Abonnement mensuel,1,Abonnement
+1061,2023-09-27,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1061,2023-11-04,Arkose Paris,1 séance plein tarif,1,Unité
+1061,2023-09-05,Arkose Paris,Pack 10 séances,1,Pack
+1061,2023-11-20,Arkose Bordeaux,Pack 10 séances,1,Pack
+1061,2023-12-12,Arkose Paris,1 séance plein tarif,1,Unité
+1062,2023-09-30,Arkose Paris,1 séance plein tarif,1,Unité
+1062,2023-09-11,Arkose Paris,Abonnement mensuel,1,Abonnement
+1062,2023-11-27,Arkose Bordeaux,Pack 10 séances,1,Pack
+1062,2023-09-20,Arkose Bordeaux,1 séance plein tarif,2,Unité
+1062,2024-01-01,Arkose Bordeaux,Pack 10 séances,1,Pack
+1062,2023-12-24,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1062,2023-09-29,Arkose Paris,Abonnement mensuel,1,Abonnement
+1062,2023-11-03,Arkose Lyon,Pack 10 séances,1,Pack
+1063,2023-12-17,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1063,2023-12-17,Arkose Paris,Abonnement mensuel,2,Abonnement
+1063,2023-11-07,Arkose Paris,Abonnement mensuel,1,Abonnement
+1063,2023-12-25,Arkose Paris,Abonnement mensuel,1,Abonnement
+1063,2023-09-06,Arkose Paris,Pack 10 séances,1,Pack
+1063,2023-09-19,Arkose Paris,Abonnement mensuel,1,Abonnement
+1063,2023-12-14,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1063,2023-12-10,Arkose Bordeaux,Pack 10 séances,2,Pack
+1063,2023-11-09,Arkose Paris,Pack 10 séances,1,Pack
+1063,2023-12-05,Arkose Paris,Abonnement mensuel,1,Abonnement
+1063,2023-12-03,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1063,2023-10-12,Arkose Paris,Abonnement mensuel,2,Abonnement
+1063,2023-09-04,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1064,2023-09-11,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1064,2023-11-25,Arkose Bordeaux,Pack 10 séances,1,Pack
+1064,2023-12-27,Arkose Paris,Pack 10 séances,1,Pack
+1064,2023-12-22,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1064,2023-11-29,Arkose Paris,1 séance plein tarif,2,Unité
+1064,2023-12-20,Arkose Paris,Abonnement mensuel,3,Abonnement
+1064,2023-11-12,Arkose Paris,Pack 10 séances,1,Pack
+1064,2023-11-30,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1064,2023-11-16,Arkose Paris,Pack 10 séances,1,Pack
+1064,2023-11-30,Arkose Paris,Abonnement mensuel,1,Abonnement
+1064,2023-12-08,Arkose Paris,Abonnement mensuel,2,Abonnement
+1064,2023-12-21,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1064,2023-09-21,Arkose Lyon,Pack 10 séances,1,Pack
+1064,2023-12-15,Arkose Lyon,1 séance plein tarif,1,Unité
+1065,2023-06-06,Arkose Lyon,Pack 10 séances,2,Pack
+1066,2023-10-19,Arkose Lyon,Pack 10 séances,2,Pack
+1066,2023-10-07,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1066,2023-12-26,Arkose Paris,Pack 10 séances,3,Pack
+1066,2023-11-19,Arkose Paris,Pack 10 séances,1,Pack
+1066,2023-09-24,Arkose Paris,Abonnement mensuel,1,Abonnement
+1066,2023-11-14,Arkose Paris,Pack 10 séances,1,Pack
+1066,2023-11-10,Arkose Lyon,Abonnement mensuel,3,Abonnement
+1066,2023-12-31,Arkose Paris,Abonnement mensuel,1,Abonnement
+1066,2023-12-08,Arkose Lyon,Abonnement mensuel,3,Abonnement
+1066,2023-09-08,Arkose Paris,Pack 10 séances,3,Pack
+1066,2023-11-03,Arkose Paris,1 séance plein tarif,1,Unité
+1066,2023-12-17,Arkose Lyon,Pack 10 séances,3,Pack
+1066,2023-12-06,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1067,2023-12-27,Arkose Paris,Abonnement mensuel,1,Abonnement
+1067,2023-11-08,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1067,2023-12-17,Arkose Lyon,Pack 10 séances,1,Pack
+1067,2023-09-24,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1067,2023-09-27,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1067,2023-11-04,Arkose Paris,Abonnement mensuel,1,Abonnement
+1067,2023-09-26,Arkose Lyon,Pack 10 séances,1,Pack
+1067,2023-11-19,Arkose Paris,1 séance plein tarif,3,Unité
+1067,2023-12-28,Arkose Lyon,Pack 10 séances,1,Pack
+1067,2023-12-01,Arkose Paris,Abonnement mensuel,1,Abonnement
+1067,2023-09-16,Arkose Lyon,1 séance plein tarif,2,Unité
+1067,2023-11-18,Arkose Paris,1 séance plein tarif,1,Unité
+1068,2022-11-16,Arkose Lyon,1 séance plein tarif,3,Unité
+1068,2023-09-22,Arkose Paris,Pack 10 séances,2,Pack
+1068,2022-08-31,Arkose Lyon,Pack 10 séances,3,Pack
+1069,2023-04-29,Arkose Paris,1 séance plein tarif,1,Unité
+1069,2023-12-18,Arkose Paris,1 séance plein tarif,3,Unité
+1069,2023-03-14,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1069,2023-05-24,Arkose Paris,Abonnement mensuel,1,Abonnement
+1070,2023-09-16,Arkose Bordeaux,1 séance plein tarif,2,Unité
+1070,2023-12-22,Arkose Paris,Pack 10 séances,1,Pack
+1070,2023-10-26,Arkose Bordeaux,1 séance plein tarif,2,Unité
+1070,2023-10-04,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1070,2023-12-15,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1070,2023-12-07,Arkose Paris,1 séance plein tarif,2,Unité
+1070,2023-09-26,Arkose Lyon,Abonnement mensuel,3,Abonnement
+1070,2023-11-29,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1070,2023-09-28,Arkose Paris,Abonnement mensuel,1,Abonnement
+1070,2023-10-13,Arkose Paris,Pack 10 séances,2,Pack
+1071,2023-10-20,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1071,2023-04-22,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1071,2023-11-08,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1071,2023-08-14,Arkose Paris,1 séance plein tarif,1,Unité
+1072,2022-08-21,Arkose Paris,Pack 10 séances,1,Pack
+1072,2022-11-24,Arkose Lyon,1 séance plein tarif,3,Unité
+1073,2023-12-16,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1073,2023-10-03,Arkose Paris,1 séance plein tarif,3,Unité
+1073,2023-08-01,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1073,2023-06-13,Arkose Lyon,Abonnement mensuel,3,Abonnement
+1073,2023-03-30,Arkose Bordeaux,Abonnement mensuel,3,Abonnement
+1073,2023-06-19,Arkose Lyon,Pack 10 séances,1,Pack
+1073,2023-10-18,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1073,2023-08-01,Arkose Bordeaux,Pack 10 séances,2,Pack
+1073,2023-10-10,Arkose Paris,Abonnement mensuel,1,Abonnement
+1074,2023-09-12,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1074,2023-10-26,Arkose Paris,1 séance plein tarif,1,Unité
+1074,2023-09-13,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1074,2023-09-26,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1074,2023-11-29,Arkose Bordeaux,Pack 10 séances,1,Pack
+1074,2023-12-10,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1074,2023-11-22,Arkose Paris,Pack 10 séances,1,Pack
+1074,2023-09-23,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1074,2023-10-09,Arkose Paris,Abonnement mensuel,1,Abonnement
+1074,2023-11-16,Arkose Paris,Abonnement mensuel,2,Abonnement
+1075,2023-12-03,Arkose Paris,Pack 10 séances,2,Pack
+1075,2023-06-10,Arkose Paris,Abonnement mensuel,3,Abonnement
+1075,2023-05-19,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1075,2023-08-06,Arkose Paris,Abonnement mensuel,1,Abonnement
+1076,2022-10-16,Arkose Paris,Pack 10 séances,1,Pack
+1076,2022-09-09,Arkose Paris,Abonnement mensuel,1,Abonnement
+1076,2022-10-23,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1076,2023-06-25,Arkose Lyon,Abonnement mensuel,3,Abonnement
+1077,2023-09-28,Arkose Paris,1 séance plein tarif,1,Unité
+1077,2022-12-20,Arkose Lyon,1 séance plein tarif,1,Unité
+1077,2022-02-20,Arkose Paris,Abonnement mensuel,1,Abonnement
+1077,2023-02-28,Arkose Paris,Abonnement mensuel,2,Abonnement
+1078,2023-07-03,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1078,2023-09-24,Arkose Lyon,Pack 10 séances,1,Pack
+1078,2023-11-20,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1078,2023-04-07,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1078,2023-07-18,Arkose Paris,Pack 10 séances,2,Pack
+1078,2023-12-20,Arkose Bordeaux,Pack 10 séances,3,Pack
+1078,2023-10-14,Arkose Paris,1 séance plein tarif,1,Unité
+1078,2023-08-04,Arkose Paris,1 séance plein tarif,1,Unité
+1079,2023-11-07,Arkose Bordeaux,1 séance plein tarif,3,Unité
+1079,2023-11-12,Arkose Paris,Pack 10 séances,1,Pack
+1079,2023-09-11,Arkose Paris,Abonnement mensuel,1,Abonnement
+1079,2023-12-21,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1079,2023-10-16,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1079,2023-11-13,Arkose Paris,Pack 10 séances,1,Pack
+1079,2023-10-28,Arkose Paris,Abonnement mensuel,3,Abonnement
+1079,2023-10-10,Arkose Lyon,Pack 10 séances,1,Pack
+1079,2023-12-14,Arkose Lyon,Pack 10 séances,3,Pack
+1079,2023-12-09,Arkose Paris,Pack 10 séances,3,Pack
+1079,2023-10-04,Arkose Paris,1 séance plein tarif,1,Unité
+1079,2023-11-05,Arkose Paris,Pack 10 séances,2,Pack
+1079,2023-10-04,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1080,2023-12-23,Arkose Lyon,Pack 10 séances,1,Pack
+1080,2023-12-09,Arkose Lyon,1 séance plein tarif,1,Unité
+1080,2023-11-24,Arkose Paris,1 séance plein tarif,1,Unité
+1080,2023-11-22,Arkose Paris,Pack 10 séances,1,Pack
+1080,2023-09-13,Arkose Lyon,Pack 10 séances,2,Pack
+1080,2023-12-27,Arkose Paris,Pack 10 séances,2,Pack
+1080,2023-11-15,Arkose Lyon,Pack 10 séances,1,Pack
+1080,2023-12-31,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1080,2023-12-23,Arkose Lyon,Abonnement mensuel,3,Abonnement
+1080,2023-12-12,Arkose Paris,Pack 10 séances,2,Pack
+1081,2023-10-26,Arkose Bordeaux,Pack 10 séances,3,Pack
+1081,2023-08-17,Arkose Paris,1 séance plein tarif,1,Unité
+1081,2023-03-20,Arkose Paris,Pack 10 séances,1,Pack
+1081,2023-03-25,Arkose Paris,Abonnement mensuel,2,Abonnement
+1081,2023-08-28,Arkose Bordeaux,1 séance plein tarif,2,Unité
+1081,2023-10-21,Arkose Paris,1 séance plein tarif,1,Unité
+1081,2023-11-20,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1082,2023-09-07,Arkose Bordeaux,Pack 10 séances,1,Pack
+1082,2023-10-31,Arkose Paris,Abonnement mensuel,1,Abonnement
+1082,2023-11-29,Arkose Paris,Pack 10 séances,2,Pack
+1082,2023-11-05,Arkose Lyon,Pack 10 séances,1,Pack
+1082,2023-09-05,Arkose Bordeaux,1 séance plein tarif,2,Unité
+1082,2023-11-04,Arkose Paris,1 séance plein tarif,1,Unité
+1082,2023-09-22,Arkose Lyon,Pack 10 séances,1,Pack
+1082,2023-11-12,Arkose Lyon,Pack 10 séances,1,Pack
+1083,2022-12-29,Arkose Bordeaux,1 séance plein tarif,2,Unité
+1083,2022-06-13,Arkose Lyon,Pack 10 séances,2,Pack
+1083,2023-09-01,Arkose Lyon,Pack 10 séances,1,Pack
+1084,2023-10-02,Arkose Paris,Pack 10 séances,2,Pack
+1084,2023-06-30,Arkose Paris,Abonnement mensuel,1,Abonnement
+1084,2023-11-02,Arkose Paris,Abonnement mensuel,1,Abonnement
+1084,2023-08-26,Arkose Lyon,Pack 10 séances,1,Pack
+1084,2023-09-22,Arkose Paris,Abonnement mensuel,1,Abonnement
+1084,2023-06-14,Arkose Bordeaux,Pack 10 séances,2,Pack
+1084,2023-10-10,Arkose Paris,1 séance plein tarif,1,Unité
+1084,2023-08-15,Arkose Paris,Pack 10 séances,1,Pack
+1085,2023-11-11,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1085,2023-11-08,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1085,2023-09-18,Arkose Paris,Abonnement mensuel,1,Abonnement
+1085,2023-11-02,Arkose Paris,Pack 10 séances,1,Pack
+1085,2023-12-11,Arkose Lyon,1 séance plein tarif,2,Unité
+1085,2023-10-18,Arkose Bordeaux,Pack 10 séances,1,Pack
+1085,2023-10-08,Arkose Paris,Pack 10 séances,1,Pack
+1085,2023-12-01,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1085,2023-12-16,Arkose Lyon,1 séance plein tarif,1,Unité
+1085,2023-09-16,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1085,2023-10-13,Arkose Paris,Pack 10 séances,2,Pack
+1085,2023-12-23,Arkose Lyon,Pack 10 séances,1,Pack
+1085,2023-09-18,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1085,2023-09-06,Arkose Paris,Abonnement mensuel,2,Abonnement
+1086,2023-08-18,Arkose Paris,Pack 10 séances,1,Pack
+1086,2023-07-11,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1086,2023-08-14,Arkose Bordeaux,Pack 10 séances,1,Pack
+1086,2023-06-11,Arkose Lyon,Pack 10 séances,3,Pack
+1086,2023-03-13,Arkose Paris,Pack 10 séances,1,Pack
+1086,2023-03-26,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1087,2023-11-01,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1087,2023-06-09,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1087,2023-08-11,Arkose Paris,Pack 10 séances,1,Pack
+1087,2023-10-01,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1088,2023-10-23,Arkose Paris,Abonnement mensuel,2,Abonnement
+1088,2023-11-18,Arkose Paris,Abonnement mensuel,1,Abonnement
+1088,2023-11-06,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1088,2023-09-28,Arkose Paris,Pack 10 séances,1,Pack
+1088,2023-09-20,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1088,2023-11-18,Arkose Paris,Pack 10 séances,3,Pack
+1088,2023-12-13,Arkose Bordeaux,Pack 10 séances,1,Pack
+1088,2023-10-11,Arkose Paris,Pack 10 séances,1,Pack
+1089,2022-08-13,Arkose Paris,Abonnement mensuel,1,Abonnement
+1089,2023-09-28,Arkose Paris,Abonnement mensuel,1,Abonnement
+1089,2022-06-20,Arkose Paris,Pack 10 séances,1,Pack
+1089,2022-08-16,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1090,2023-03-13,Arkose Lyon,1 séance plein tarif,1,Unité
+1090,2023-06-05,Arkose Lyon,Pack 10 séances,1,Pack
+1090,2023-04-12,Arkose Paris,Abonnement mensuel,1,Abonnement
+1090,2023-06-01,Arkose Lyon,Pack 10 séances,2,Pack
+1090,2023-05-02,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1090,2023-04-08,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1090,2023-11-23,Arkose Lyon,1 séance plein tarif,2,Unité
+1090,2023-08-17,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1091,2023-03-29,Arkose Lyon,1 séance plein tarif,1,Unité
+1091,2023-03-14,Arkose Lyon,Pack 10 séances,2,Pack
+1091,2023-11-02,Arkose Paris,Abonnement mensuel,1,Abonnement
+1091,2023-09-14,Arkose Paris,Pack 10 séances,1,Pack
+1091,2023-06-09,Arkose Lyon,1 séance plein tarif,1,Unité
+1091,2023-06-12,Arkose Paris,Abonnement mensuel,1,Abonnement
+1091,2023-12-11,Arkose Paris,1 séance plein tarif,1,Unité
+1092,2023-07-08,Arkose Lyon,Pack 10 séances,1,Pack
+1092,2023-05-15,Arkose Lyon,Pack 10 séances,1,Pack
+1092,2023-04-19,Arkose Lyon,1 séance plein tarif,2,Unité
+1092,2023-11-25,Arkose Paris,1 séance plein tarif,1,Unité
+1092,2023-03-21,Arkose Bordeaux,Pack 10 séances,1,Pack
+1092,2023-07-23,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1092,2023-03-17,Arkose Paris,Abonnement mensuel,2,Abonnement
+1092,2023-03-17,Arkose Paris,Abonnement mensuel,3,Abonnement
+1092,2023-07-03,Arkose Bordeaux,Pack 10 séances,1,Pack
+1093,2023-08-30,Arkose Lyon,Pack 10 séances,3,Pack
+1093,2023-12-14,Arkose Paris,Pack 10 séances,1,Pack
+1093,2023-04-01,Arkose Lyon,1 séance plein tarif,1,Unité
+1093,2023-07-03,Arkose Lyon,Pack 10 séances,1,Pack
+1093,2023-08-06,Arkose Bordeaux,Pack 10 séances,2,Pack
+1093,2023-07-20,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1093,2023-07-31,Arkose Lyon,Abonnement mensuel,3,Abonnement
+1093,2023-03-31,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1094,2022-10-01,Arkose Lyon,Pack 10 séances,2,Pack
+1094,2023-06-23,Arkose Paris,Pack 10 séances,1,Pack
+1095,2023-08-13,Arkose Paris,Pack 10 séances,1,Pack
+1095,2023-11-04,Arkose Lyon,1 séance plein tarif,2,Unité
+1095,2023-05-25,Arkose Bordeaux,Pack 10 séances,3,Pack
+1095,2023-12-20,Arkose Paris,Pack 10 séances,1,Pack
+1095,2023-03-16,Arkose Paris,Pack 10 séances,1,Pack
+1095,2023-03-09,Arkose Paris,Abonnement mensuel,1,Abonnement
+1095,2023-06-07,Arkose Lyon,1 séance plein tarif,2,Unité
+1095,2023-05-12,Arkose Paris,1 séance plein tarif,2,Unité
+1096,2023-10-07,Arkose Paris,1 séance plein tarif,3,Unité
+1096,2023-10-10,Arkose Paris,Pack 10 séances,1,Pack
+1096,2023-11-06,Arkose Paris,1 séance plein tarif,1,Unité
+1096,2023-12-13,Arkose Paris,Pack 10 séances,1,Pack
+1096,2023-12-16,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1096,2023-12-22,Arkose Lyon,Pack 10 séances,1,Pack
+1096,2023-12-13,Arkose Paris,1 séance plein tarif,1,Unité
+1096,2023-12-18,Arkose Paris,1 séance plein tarif,2,Unité
+1096,2023-11-23,Arkose Paris,Abonnement mensuel,1,Abonnement
+1096,2023-12-22,Arkose Paris,Abonnement mensuel,1,Abonnement
+1096,2023-11-03,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1096,2023-12-20,Arkose Paris,Abonnement mensuel,2,Abonnement
+1097,2023-10-06,Arkose Paris,Abonnement mensuel,1,Abonnement
+1097,2023-09-05,Arkose Lyon,Pack 10 séances,1,Pack
+1097,2023-10-30,Arkose Lyon,Pack 10 séances,1,Pack
+1097,2023-09-25,Arkose Paris,Abonnement mensuel,2,Abonnement
+1097,2023-10-29,Arkose Paris,Abonnement mensuel,2,Abonnement
+1097,2023-09-18,Arkose Paris,Abonnement mensuel,1,Abonnement
+1097,2023-10-05,Arkose Lyon,Pack 10 séances,2,Pack
+1097,2023-12-18,Arkose Paris,Abonnement mensuel,1,Abonnement
+1097,2023-12-20,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1097,2023-10-03,Arkose Lyon,Pack 10 séances,1,Pack
+1097,2023-10-18,Arkose Paris,1 séance plein tarif,1,Unité
+1097,2023-09-25,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1097,2023-11-04,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1098,2022-12-08,Arkose Lyon,Pack 10 séances,1,Pack
+1099,2023-11-24,Arkose Bordeaux,Pack 10 séances,1,Pack
+1099,2023-06-25,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1099,2023-08-24,Arkose Paris,1 séance plein tarif,1,Unité
+1099,2023-06-16,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1099,2023-12-01,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1099,2023-07-09,Arkose Lyon,Pack 10 séances,1,Pack
+1099,2023-08-28,Arkose Paris,Abonnement mensuel,2,Abonnement
+1100,2023-12-29,Arkose Paris,1 séance plein tarif,2,Unité
+1100,2023-12-13,Arkose Paris,Abonnement mensuel,1,Abonnement
+1100,2024-01-01,Arkose Paris,Abonnement mensuel,1,Abonnement
+1100,2023-09-10,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1100,2023-11-04,Arkose Paris,1 séance plein tarif,1,Unité
+1100,2023-09-11,Arkose Lyon,Pack 10 séances,1,Pack
+1100,2023-09-06,Arkose Paris,Pack 10 séances,3,Pack
+1100,2023-09-28,Arkose Paris,Pack 10 séances,1,Pack
+1100,2023-11-20,Arkose Paris,Abonnement mensuel,1,Abonnement
+1100,2023-11-23,Arkose Paris,Pack 10 séances,1,Pack
+1100,2023-09-16,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1100,2023-11-30,Arkose Bordeaux,1 séance plein tarif,3,Unité
+1100,2023-11-19,Arkose Paris,Pack 10 séances,1,Pack
+1101,2023-09-15,Arkose Paris,Pack 10 séances,1,Pack
+1101,2023-11-01,Arkose Lyon,Pack 10 séances,1,Pack
+1101,2023-09-09,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1101,2023-12-01,Arkose Lyon,1 séance plein tarif,2,Unité
+1101,2023-11-07,Arkose Paris,Abonnement mensuel,1,Abonnement
+1101,2023-10-30,Arkose Paris,Abonnement mensuel,1,Abonnement
+1101,2023-09-09,Arkose Paris,Abonnement mensuel,3,Abonnement
+1101,2023-10-31,Arkose Paris,Pack 10 séances,1,Pack
+1102,2023-12-05,Arkose Bordeaux,1 séance plein tarif,2,Unité
+1102,2023-10-26,Arkose Paris,1 séance plein tarif,1,Unité
+1102,2023-04-08,Arkose Paris,Pack 10 séances,2,Pack
+1102,2023-04-30,Arkose Paris,1 séance plein tarif,1,Unité
+1102,2023-05-09,Arkose Paris,Pack 10 séances,1,Pack
+1102,2023-06-06,Arkose Bordeaux,Pack 10 séances,3,Pack
+1102,2023-06-08,Arkose Paris,Abonnement mensuel,1,Abonnement
+1102,2023-07-02,Arkose Lyon,Abonnement mensuel,3,Abonnement
+1102,2023-12-08,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1103,2023-12-07,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1103,2023-12-09,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1103,2023-12-18,Arkose Paris,1 séance plein tarif,1,Unité
+1103,2023-11-16,Arkose Paris,1 séance plein tarif,2,Unité
+1103,2023-10-07,Arkose Paris,Abonnement mensuel,1,Abonnement
+1103,2023-09-06,Arkose Paris,Abonnement mensuel,1,Abonnement
+1103,2023-10-05,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1103,2023-09-27,Arkose Paris,Pack 10 séances,3,Pack
+1104,2023-11-17,Arkose Lyon,Pack 10 séances,1,Pack
+1104,2023-10-24,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1104,2023-10-26,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1104,2023-09-20,Arkose Lyon,1 séance plein tarif,1,Unité
+1104,2023-10-05,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1104,2023-10-30,Arkose Paris,Pack 10 séances,1,Pack
+1104,2023-11-07,Arkose Paris,Pack 10 séances,1,Pack
+1104,2023-11-04,Arkose Lyon,Pack 10 séances,1,Pack
+1104,2023-12-03,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1104,2023-10-17,Arkose Lyon,Abonnement mensuel,3,Abonnement
+1104,2023-11-09,Arkose Paris,1 séance plein tarif,1,Unité
+1104,2023-11-05,Arkose Paris,Abonnement mensuel,1,Abonnement
+1104,2023-11-11,Arkose Paris,Pack 10 séances,1,Pack
+1104,2023-09-23,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1105,2023-10-15,Arkose Bordeaux,Pack 10 séances,1,Pack
+1105,2023-12-25,Arkose Paris,Abonnement mensuel,1,Abonnement
+1105,2023-12-20,Arkose Paris,Pack 10 séances,1,Pack
+1105,2023-12-27,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1105,2023-12-18,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1105,2023-09-07,Arkose Paris,Abonnement mensuel,1,Abonnement
+1105,2023-11-05,Arkose Lyon,Pack 10 séances,1,Pack
+1105,2023-12-28,Arkose Paris,Abonnement mensuel,1,Abonnement
+1105,2023-09-10,Arkose Bordeaux,Pack 10 séances,2,Pack
+1105,2023-12-20,Arkose Paris,Abonnement mensuel,1,Abonnement
+1105,2023-10-31,Arkose Bordeaux,Pack 10 séances,1,Pack
+1105,2023-12-14,Arkose Paris,Pack 10 séances,3,Pack
+1106,2023-12-16,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1106,2023-11-27,Arkose Paris,Pack 10 séances,1,Pack
+1106,2023-09-12,Arkose Paris,Abonnement mensuel,1,Abonnement
+1106,2023-10-14,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1106,2023-12-05,Arkose Lyon,Pack 10 séances,1,Pack
+1106,2023-12-25,Arkose Lyon,Pack 10 séances,3,Pack
+1106,2023-11-18,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1106,2023-09-21,Arkose Lyon,Pack 10 séances,1,Pack
+1106,2023-10-20,Arkose Paris,Abonnement mensuel,2,Abonnement
+1106,2023-11-24,Arkose Lyon,1 séance plein tarif,1,Unité
+1106,2023-10-25,Arkose Paris,1 séance plein tarif,1,Unité
+1106,2023-09-16,Arkose Paris,1 séance plein tarif,1,Unité
+1107,2022-05-04,Arkose Paris,1 séance plein tarif,1,Unité
+1107,2022-12-22,Arkose Paris,Abonnement mensuel,1,Abonnement
+1107,2022-11-27,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1107,2022-11-12,Arkose Lyon,1 séance plein tarif,3,Unité
+1108,2023-04-26,Arkose Lyon,1 séance plein tarif,1,Unité
+1108,2023-04-07,Arkose Lyon,Abonnement mensuel,3,Abonnement
+1108,2023-03-29,Arkose Paris,1 séance plein tarif,1,Unité
+1108,2023-04-21,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1108,2023-04-29,Arkose Paris,1 séance plein tarif,2,Unité
+1108,2023-09-30,Arkose Paris,Abonnement mensuel,1,Abonnement
+1109,2023-04-11,Arkose Paris,Abonnement mensuel,2,Abonnement
+1109,2023-07-13,Arkose Paris,Abonnement mensuel,1,Abonnement
+1109,2023-04-19,Arkose Bordeaux,Pack 10 séances,1,Pack
+1109,2023-04-05,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1109,2023-08-11,Arkose Paris,1 séance plein tarif,1,Unité
+1110,2023-11-03,Arkose Paris,1 séance plein tarif,1,Unité
+1110,2023-11-04,Arkose Lyon,Pack 10 séances,2,Pack
+1110,2023-10-31,Arkose Paris,Pack 10 séances,1,Pack
+1110,2023-12-21,Arkose Paris,Abonnement mensuel,1,Abonnement
+1110,2023-10-13,Arkose Paris,1 séance plein tarif,3,Unité
+1110,2023-10-14,Arkose Paris,Abonnement mensuel,1,Abonnement
+1110,2023-09-23,Arkose Paris,Abonnement mensuel,2,Abonnement
+1110,2023-09-15,Arkose Bordeaux,1 séance plein tarif,2,Unité
+1110,2023-12-18,Arkose Paris,Pack 10 séances,1,Pack
+1110,2023-09-18,Arkose Paris,Abonnement mensuel,3,Abonnement
+1110,2023-12-04,Arkose Paris,Abonnement mensuel,1,Abonnement
+1111,2023-12-03,Arkose Paris,Pack 10 séances,1,Pack
+1111,2023-05-26,Arkose Paris,Abonnement mensuel,1,Abonnement
+1111,2023-05-16,Arkose Paris,Pack 10 séances,2,Pack
+1111,2023-08-07,Arkose Lyon,1 séance plein tarif,1,Unité
+1111,2023-08-29,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1112,2022-03-24,Arkose Paris,1 séance plein tarif,3,Unité
+1113,2023-07-23,Arkose Lyon,1 séance plein tarif,1,Unité
+1113,2023-07-05,Arkose Lyon,Pack 10 séances,1,Pack
+1113,2023-06-22,Arkose Paris,Pack 10 séances,2,Pack
+1113,2023-03-06,Arkose Paris,Pack 10 séances,1,Pack
+1114,2023-12-29,Arkose Lyon,Pack 10 séances,1,Pack
+1114,2023-10-13,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1114,2023-10-02,Arkose Lyon,1 séance plein tarif,1,Unité
+1114,2023-12-29,Arkose Paris,Abonnement mensuel,3,Abonnement
+1114,2023-11-20,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1114,2023-12-06,Arkose Lyon,Pack 10 séances,1,Pack
+1114,2023-11-03,Arkose Paris,Abonnement mensuel,1,Abonnement
+1114,2023-09-28,Arkose Paris,Pack 10 séances,1,Pack
+1114,2023-10-17,Arkose Lyon,Pack 10 séances,1,Pack
+1114,2023-09-06,Arkose Paris,Pack 10 séances,2,Pack
+1114,2023-09-17,Arkose Paris,1 séance plein tarif,1,Unité
+1114,2023-10-05,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1115,2023-09-26,Arkose Bordeaux,Pack 10 séances,2,Pack
+1115,2023-11-12,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1115,2023-12-02,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1115,2023-09-23,Arkose Lyon,Pack 10 séances,1,Pack
+1115,2023-12-23,Arkose Lyon,1 séance plein tarif,1,Unité
+1115,2023-11-29,Arkose Bordeaux,Pack 10 séances,1,Pack
+1115,2023-11-27,Arkose Bordeaux,Pack 10 séances,2,Pack
+1115,2023-11-02,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1116,2023-03-14,Arkose Paris,Abonnement mensuel,1,Abonnement
+1116,2023-06-29,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1116,2023-05-16,Arkose Paris,Pack 10 séances,1,Pack
+1116,2023-10-07,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1116,2023-11-19,Arkose Bordeaux,Pack 10 séances,1,Pack
+1117,2023-09-08,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1117,2023-11-20,Arkose Paris,Pack 10 séances,1,Pack
+1117,2023-10-11,Arkose Paris,Abonnement mensuel,2,Abonnement
+1117,2023-12-20,Arkose Bordeaux,Pack 10 séances,1,Pack
+1117,2023-10-24,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1117,2023-10-25,Arkose Paris,Abonnement mensuel,1,Abonnement
+1117,2023-10-10,Arkose Paris,Abonnement mensuel,2,Abonnement
+1117,2023-11-09,Arkose Paris,Pack 10 séances,2,Pack
+1117,2023-09-25,Arkose Bordeaux,Pack 10 séances,1,Pack
+1117,2023-11-10,Arkose Paris,Pack 10 séances,1,Pack
+1118,2023-09-12,Arkose Paris,Pack 10 séances,1,Pack
+1118,2023-06-12,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1118,2023-05-04,Arkose Paris,Pack 10 séances,1,Pack
+1118,2023-08-14,Arkose Lyon,1 séance plein tarif,1,Unité
+1118,2023-09-13,Arkose Lyon,1 séance plein tarif,1,Unité
+1118,2023-06-16,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1118,2023-03-09,Arkose Paris,1 séance plein tarif,1,Unité
+1118,2023-05-07,Arkose Paris,Pack 10 séances,1,Pack
+1119,2023-11-21,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1119,2023-10-30,Arkose Paris,Pack 10 séances,1,Pack
+1119,2023-10-02,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1119,2023-09-06,Arkose Bordeaux,Abonnement mensuel,3,Abonnement
+1119,2023-10-26,Arkose Paris,Pack 10 séances,1,Pack
+1119,2023-11-20,Arkose Bordeaux,Pack 10 séances,2,Pack
+1119,2023-10-14,Arkose Paris,1 séance plein tarif,2,Unité
+1119,2023-11-06,Arkose Bordeaux,Pack 10 séances,3,Pack
+1119,2023-12-26,Arkose Paris,Pack 10 séances,3,Pack
+1120,2023-09-10,Arkose Lyon,1 séance plein tarif,1,Unité
+1120,2023-11-09,Arkose Paris,Abonnement mensuel,1,Abonnement
+1120,2023-11-28,Arkose Lyon,1 séance plein tarif,1,Unité
+1120,2023-12-03,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1120,2023-10-05,Arkose Paris,Abonnement mensuel,1,Abonnement
+1120,2023-10-30,Arkose Paris,Abonnement mensuel,1,Abonnement
+1120,2023-10-05,Arkose Bordeaux,Pack 10 séances,3,Pack
+1120,2023-11-22,Arkose Paris,Abonnement mensuel,1,Abonnement
+1120,2023-11-13,Arkose Paris,Abonnement mensuel,1,Abonnement
+1120,2023-11-10,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1120,2023-09-06,Arkose Paris,Pack 10 séances,1,Pack
+1120,2023-10-21,Arkose Paris,Abonnement mensuel,1,Abonnement
+1120,2023-11-27,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1120,2023-10-16,Arkose Paris,Abonnement mensuel,2,Abonnement
+1121,2023-06-29,Arkose Paris,Pack 10 séances,1,Pack
+1121,2023-11-24,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1121,2023-10-28,Arkose Lyon,1 séance plein tarif,2,Unité
+1121,2023-07-05,Arkose Paris,Pack 10 séances,1,Pack
+1121,2023-10-07,Arkose Paris,Abonnement mensuel,1,Abonnement
+1121,2023-08-03,Arkose Paris,Pack 10 séances,1,Pack
+1122,2023-11-30,Arkose Paris,1 séance plein tarif,1,Unité
+1123,2023-12-12,Arkose Paris,Abonnement mensuel,1,Abonnement
+1123,2023-09-07,Arkose Paris,Pack 10 séances,1,Pack
+1123,2023-11-09,Arkose Paris,Abonnement mensuel,1,Abonnement
+1123,2023-11-25,Arkose Paris,Pack 10 séances,1,Pack
+1123,2023-12-22,Arkose Bordeaux,Pack 10 séances,1,Pack
+1123,2023-10-01,Arkose Paris,Abonnement mensuel,3,Abonnement
+1123,2023-11-21,Arkose Lyon,Pack 10 séances,1,Pack
+1123,2023-12-17,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1123,2023-11-12,Arkose Lyon,Pack 10 séances,1,Pack
+1123,2023-12-01,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1123,2023-11-04,Arkose Paris,Pack 10 séances,1,Pack
+1123,2023-12-04,Arkose Paris,Abonnement mensuel,2,Abonnement
+1123,2023-12-04,Arkose Paris,Abonnement mensuel,1,Abonnement
+1124,2023-10-27,Arkose Paris,1 séance plein tarif,1,Unité
+1124,2023-07-07,Arkose Paris,Abonnement mensuel,1,Abonnement
+1124,2023-06-21,Arkose Bordeaux,Pack 10 séances,3,Pack
+1124,2023-12-18,Arkose Lyon,1 séance plein tarif,3,Unité
+1124,2023-09-11,Arkose Lyon,Abonnement mensuel,3,Abonnement
+1124,2023-09-14,Arkose Paris,Pack 10 séances,3,Pack
+1125,2022-03-07,Arkose Lyon,Pack 10 séances,1,Pack
+1125,2023-07-15,Arkose Lyon,Pack 10 séances,1,Pack
+1125,2023-06-26,Arkose Paris,Pack 10 séances,1,Pack
+1125,2022-10-15,Arkose Paris,Abonnement mensuel,1,Abonnement
+1126,2023-05-15,Arkose Lyon,Pack 10 séances,1,Pack
+1127,2023-02-13,Arkose Bordeaux,Pack 10 séances,3,Pack
+1127,2022-09-02,Arkose Paris,Abonnement mensuel,1,Abonnement
+1127,2023-09-06,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1127,2022-12-28,Arkose Paris,1 séance plein tarif,1,Unité
+1128,2023-08-08,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1128,2023-11-18,Arkose Paris,Abonnement mensuel,1,Abonnement
+1128,2023-06-02,Arkose Paris,1 séance plein tarif,1,Unité
+1128,2023-05-27,Arkose Paris,Pack 10 séances,2,Pack
+1128,2023-07-06,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1128,2023-09-26,Arkose Lyon,Pack 10 séances,1,Pack
+1129,2023-08-05,Arkose Paris,Pack 10 séances,1,Pack
+1129,2023-11-17,Arkose Paris,Pack 10 séances,1,Pack
+1129,2023-03-26,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1129,2023-08-04,Arkose Paris,Pack 10 séances,2,Pack
+1129,2023-07-28,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1129,2023-09-21,Arkose Lyon,Pack 10 séances,1,Pack
+1129,2023-07-18,Arkose Paris,Pack 10 séances,1,Pack
+1130,2023-08-18,Arkose Lyon,Pack 10 séances,1,Pack
+1130,2023-03-12,Arkose Lyon,Pack 10 séances,1,Pack
+1130,2023-09-23,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1130,2023-12-08,Arkose Paris,Pack 10 séances,3,Pack
+1130,2023-11-25,Arkose Paris,Abonnement mensuel,1,Abonnement
+1130,2023-04-18,Arkose Paris,Pack 10 séances,1,Pack
+1131,2023-05-10,Arkose Paris,Pack 10 séances,1,Pack
+1131,2023-08-29,Arkose Lyon,1 séance plein tarif,1,Unité
+1131,2023-06-05,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1131,2023-11-21,Arkose Paris,Abonnement mensuel,1,Abonnement
+1132,2023-10-05,Arkose Lyon,Pack 10 séances,1,Pack
+1132,2023-09-28,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1132,2023-12-23,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1132,2023-09-08,Arkose Paris,Pack 10 séances,1,Pack
+1132,2023-11-23,Arkose Lyon,1 séance plein tarif,3,Unité
+1132,2023-12-17,Arkose Paris,Pack 10 séances,2,Pack
+1132,2023-12-28,Arkose Lyon,Pack 10 séances,1,Pack
+1132,2023-12-20,Arkose Paris,Pack 10 séances,1,Pack
+1132,2023-09-19,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1133,2023-04-10,Arkose Paris,Abonnement mensuel,2,Abonnement
+1134,2023-11-26,Arkose Paris,1 séance plein tarif,2,Unité
+1134,2023-08-25,Arkose Lyon,1 séance plein tarif,1,Unité
+1134,2023-08-04,Arkose Paris,Abonnement mensuel,2,Abonnement
+1134,2023-05-24,Arkose Lyon,1 séance plein tarif,1,Unité
+1134,2023-06-07,Arkose Paris,1 séance plein tarif,1,Unité
+1134,2023-05-27,Arkose Paris,Pack 10 séances,1,Pack
+1134,2023-10-12,Arkose Paris,Abonnement mensuel,1,Abonnement
+1135,2023-10-11,Arkose Lyon,1 séance plein tarif,2,Unité
+1135,2023-09-19,Arkose Paris,1 séance plein tarif,2,Unité
+1135,2023-11-08,Arkose Paris,Pack 10 séances,1,Pack
+1135,2023-12-03,Arkose Paris,Abonnement mensuel,1,Abonnement
+1135,2023-09-20,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1135,2023-10-11,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1135,2023-12-06,Arkose Lyon,Abonnement mensuel,3,Abonnement
+1135,2023-12-15,Arkose Bordeaux,Pack 10 séances,1,Pack
+1135,2023-10-13,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1135,2023-09-26,Arkose Paris,Abonnement mensuel,1,Abonnement
+1135,2023-11-12,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1136,2023-07-07,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1136,2022-04-21,Arkose Lyon,Pack 10 séances,1,Pack
+1136,2023-11-28,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1136,2023-03-25,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1137,2023-10-19,Arkose Lyon,Pack 10 séances,1,Pack
+1137,2023-11-26,Arkose Lyon,Pack 10 séances,1,Pack
+1137,2023-12-28,Arkose Bordeaux,1 séance plein tarif,3,Unité
+1137,2023-09-25,Arkose Bordeaux,Pack 10 séances,1,Pack
+1137,2023-12-02,Arkose Paris,Abonnement mensuel,1,Abonnement
+1137,2023-10-12,Arkose Paris,1 séance plein tarif,1,Unité
+1137,2023-10-24,Arkose Paris,1 séance plein tarif,1,Unité
+1137,2023-10-15,Arkose Paris,1 séance plein tarif,1,Unité
+1137,2023-10-06,Arkose Bordeaux,Pack 10 séances,3,Pack
+1137,2023-09-08,Arkose Lyon,1 séance plein tarif,1,Unité
+1138,2023-10-01,Arkose Lyon,Pack 10 séances,2,Pack
+1138,2023-12-02,Arkose Paris,Pack 10 séances,1,Pack
+1138,2023-10-03,Arkose Paris,Abonnement mensuel,1,Abonnement
+1138,2023-11-07,Arkose Lyon,Pack 10 séances,1,Pack
+1138,2023-12-11,Arkose Paris,1 séance plein tarif,1,Unité
+1138,2023-09-11,Arkose Paris,Abonnement mensuel,1,Abonnement
+1138,2023-12-29,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1138,2023-09-21,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1139,2023-09-20,Arkose Paris,1 séance plein tarif,1,Unité
+1139,2023-09-17,Arkose Bordeaux,1 séance plein tarif,2,Unité
+1139,2023-11-08,Arkose Lyon,Pack 10 séances,2,Pack
+1139,2023-10-23,Arkose Bordeaux,Pack 10 séances,1,Pack
+1139,2023-12-29,Arkose Paris,Abonnement mensuel,2,Abonnement
+1139,2023-11-30,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1139,2023-10-24,Arkose Paris,Abonnement mensuel,2,Abonnement
+1139,2023-10-06,Arkose Paris,Abonnement mensuel,2,Abonnement
+1139,2023-10-17,Arkose Lyon,Pack 10 séances,2,Pack
+1139,2023-10-13,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1139,2023-09-26,Arkose Paris,1 séance plein tarif,1,Unité
+1139,2023-09-18,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1140,2023-11-11,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1141,2023-03-10,Arkose Paris,1 séance plein tarif,1,Unité
+1141,2022-11-17,Arkose Paris,Abonnement mensuel,1,Abonnement
+1141,2022-07-15,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1142,2023-09-25,Arkose Paris,Pack 10 séances,3,Pack
+1142,2023-12-04,Arkose Lyon,Pack 10 séances,2,Pack
+1142,2023-12-03,Arkose Paris,Abonnement mensuel,1,Abonnement
+1142,2023-12-19,Arkose Lyon,1 séance plein tarif,3,Unité
+1142,2023-10-27,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1142,2023-11-28,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1142,2023-10-24,Arkose Paris,1 séance plein tarif,1,Unité
+1142,2023-11-10,Arkose Paris,Pack 10 séances,1,Pack
+1142,2023-12-07,Arkose Lyon,1 séance plein tarif,3,Unité
+1142,2023-11-20,Arkose Paris,1 séance plein tarif,3,Unité
+1142,2023-11-10,Arkose Paris,Abonnement mensuel,1,Abonnement
+1143,2023-12-17,Arkose Paris,Pack 10 séances,1,Pack
+1143,2023-10-13,Arkose Lyon,1 séance plein tarif,2,Unité
+1143,2023-10-10,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1143,2023-10-11,Arkose Paris,Pack 10 séances,1,Pack
+1143,2023-12-07,Arkose Paris,Abonnement mensuel,3,Abonnement
+1143,2023-09-27,Arkose Paris,Abonnement mensuel,1,Abonnement
+1143,2023-11-06,Arkose Lyon,Pack 10 séances,2,Pack
+1143,2023-10-14,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1143,2023-12-07,Arkose Lyon,Pack 10 séances,1,Pack
+1143,2023-09-27,Arkose Bordeaux,1 séance plein tarif,2,Unité
+1143,2023-12-01,Arkose Lyon,1 séance plein tarif,2,Unité
+1143,2023-11-02,Arkose Paris,Pack 10 séances,1,Pack
+1143,2023-10-23,Arkose Bordeaux,Pack 10 séances,1,Pack
+1144,2023-10-20,Arkose Bordeaux,Pack 10 séances,1,Pack
+1144,2023-10-18,Arkose Lyon,Pack 10 séances,1,Pack
+1144,2023-12-06,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1144,2023-11-05,Arkose Paris,Abonnement mensuel,2,Abonnement
+1144,2023-12-18,Arkose Paris,Pack 10 séances,1,Pack
+1144,2023-10-04,Arkose Paris,Abonnement mensuel,1,Abonnement
+1144,2023-11-20,Arkose Paris,Abonnement mensuel,1,Abonnement
+1144,2023-09-14,Arkose Paris,Abonnement mensuel,3,Abonnement
+1145,2023-11-01,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1145,2023-11-13,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1145,2023-12-12,Arkose Paris,Abonnement mensuel,1,Abonnement
+1145,2023-12-16,Arkose Paris,Abonnement mensuel,3,Abonnement
+1145,2023-10-12,Arkose Paris,1 séance plein tarif,1,Unité
+1145,2023-12-29,Arkose Bordeaux,Pack 10 séances,1,Pack
+1145,2023-09-17,Arkose Paris,Abonnement mensuel,1,Abonnement
+1145,2023-10-02,Arkose Paris,Pack 10 séances,3,Pack
+1146,2023-07-12,Arkose Bordeaux,Pack 10 séances,1,Pack
+1146,2023-03-10,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1146,2023-07-02,Arkose Paris,Pack 10 séances,2,Pack
+1146,2023-06-16,Arkose Lyon,1 séance plein tarif,1,Unité
+1146,2023-06-27,Arkose Lyon,Pack 10 séances,1,Pack
+1147,2023-10-22,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1147,2023-10-14,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1147,2023-10-16,Arkose Paris,Pack 10 séances,1,Pack
+1147,2023-10-31,Arkose Paris,Pack 10 séances,1,Pack
+1147,2023-12-31,Arkose Paris,Pack 10 séances,2,Pack
+1147,2023-11-19,Arkose Lyon,Pack 10 séances,1,Pack
+1147,2023-09-16,Arkose Paris,Abonnement mensuel,1,Abonnement
+1147,2023-10-28,Arkose Paris,Abonnement mensuel,1,Abonnement
+1147,2023-10-13,Arkose Bordeaux,Pack 10 séances,1,Pack
+1148,2023-07-03,Arkose Lyon,1 séance plein tarif,3,Unité
+1148,2023-01-28,Arkose Paris,Pack 10 séances,1,Pack
+1148,2023-06-24,Arkose Paris,Abonnement mensuel,2,Abonnement
+1149,2023-11-12,Arkose Paris,Pack 10 séances,1,Pack
+1149,2023-10-10,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1149,2023-10-25,Arkose Paris,Pack 10 séances,1,Pack
+1149,2023-12-10,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1149,2023-12-16,Arkose Lyon,Pack 10 séances,2,Pack
+1149,2023-09-18,Arkose Lyon,Pack 10 séances,3,Pack
+1149,2023-12-19,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1149,2023-11-29,Arkose Paris,Pack 10 séances,1,Pack
+1150,2024-01-01,Arkose Lyon,Pack 10 séances,1,Pack
+1150,2023-09-18,Arkose Lyon,1 séance plein tarif,1,Unité
+1150,2023-12-14,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1150,2023-12-25,Arkose Paris,Pack 10 séances,1,Pack
+1150,2023-12-21,Arkose Paris,Pack 10 séances,1,Pack
+1150,2023-11-10,Arkose Lyon,1 séance plein tarif,1,Unité
+1150,2023-11-27,Arkose Paris,Pack 10 séances,1,Pack
+1150,2023-11-09,Arkose Lyon,1 séance plein tarif,1,Unité
+1150,2023-09-30,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1150,2024-01-01,Arkose Lyon,1 séance plein tarif,2,Unité
+1151,2023-09-05,Arkose Paris,Abonnement mensuel,1,Abonnement
+1151,2023-11-25,Arkose Paris,Abonnement mensuel,3,Abonnement
+1151,2023-09-04,Arkose Paris,Abonnement mensuel,1,Abonnement
+1151,2023-11-30,Arkose Paris,Abonnement mensuel,1,Abonnement
+1151,2023-09-28,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1151,2023-11-11,Arkose Paris,1 séance plein tarif,1,Unité
+1151,2023-12-10,Arkose Paris,Abonnement mensuel,2,Abonnement
+1151,2023-10-01,Arkose Lyon,Pack 10 séances,3,Pack
+1151,2023-12-31,Arkose Paris,Pack 10 séances,1,Pack
+1152,2023-05-01,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1152,2023-12-03,Arkose Paris,Abonnement mensuel,2,Abonnement
+1152,2023-08-16,Arkose Bordeaux,Pack 10 séances,1,Pack
+1152,2023-12-20,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1152,2023-05-18,Arkose Paris,Abonnement mensuel,1,Abonnement
+1153,2023-12-09,Arkose Paris,Abonnement mensuel,1,Abonnement
+1153,2023-09-12,Arkose Lyon,Pack 10 séances,1,Pack
+1153,2023-12-04,Arkose Paris,Pack 10 séances,1,Pack
+1153,2023-10-18,Arkose Bordeaux,Pack 10 séances,1,Pack
+1153,2023-09-23,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1153,2023-12-07,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1153,2023-11-03,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1153,2023-10-19,Arkose Bordeaux,Pack 10 séances,1,Pack
+1153,2023-11-13,Arkose Bordeaux,Pack 10 séances,1,Pack
+1153,2023-12-05,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1153,2023-10-09,Arkose Paris,Abonnement mensuel,1,Abonnement
+1154,2023-05-26,Arkose Paris,Abonnement mensuel,1,Abonnement
+1154,2022-09-02,Arkose Paris,Abonnement mensuel,1,Abonnement
+1154,2023-06-27,Arkose Bordeaux,1 séance plein tarif,2,Unité
+1155,2023-12-21,Arkose Paris,Abonnement mensuel,1,Abonnement
+1155,2023-12-24,Arkose Lyon,1 séance plein tarif,1,Unité
+1155,2023-11-07,Arkose Paris,1 séance plein tarif,1,Unité
+1155,2023-09-21,Arkose Bordeaux,Pack 10 séances,1,Pack
+1155,2023-11-21,Arkose Paris,Pack 10 séances,1,Pack
+1155,2023-09-19,Arkose Lyon,1 séance plein tarif,1,Unité
+1155,2023-12-18,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1155,2023-11-12,Arkose Paris,1 séance plein tarif,3,Unité
+1155,2023-10-14,Arkose Lyon,1 séance plein tarif,1,Unité
+1155,2023-11-27,Arkose Lyon,Pack 10 séances,2,Pack
+1155,2023-11-20,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1156,2022-11-03,Arkose Paris,Abonnement mensuel,1,Abonnement
+1156,2023-01-31,Arkose Paris,Abonnement mensuel,1,Abonnement
+1156,2023-07-19,Arkose Lyon,Abonnement mensuel,3,Abonnement
+1156,2022-02-15,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1157,2023-08-23,Arkose Lyon,Pack 10 séances,1,Pack
+1157,2023-11-14,Arkose Lyon,Pack 10 séances,1,Pack
+1157,2023-07-18,Arkose Paris,Pack 10 séances,2,Pack
+1157,2023-07-09,Arkose Lyon,Pack 10 séances,2,Pack
+1157,2023-12-06,Arkose Paris,Pack 10 séances,1,Pack
+1157,2023-06-21,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1157,2023-08-31,Arkose Paris,Pack 10 séances,1,Pack
+1157,2023-11-19,Arkose Paris,1 séance plein tarif,1,Unité
+1157,2023-06-09,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1158,2023-11-18,Arkose Paris,Abonnement mensuel,1,Abonnement
+1158,2023-12-14,Arkose Paris,Abonnement mensuel,1,Abonnement
+1158,2023-10-26,Arkose Paris,1 séance plein tarif,1,Unité
+1158,2023-11-21,Arkose Paris,Abonnement mensuel,1,Abonnement
+1158,2023-12-23,Arkose Lyon,1 séance plein tarif,1,Unité
+1158,2023-06-23,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1158,2023-06-03,Arkose Paris,Abonnement mensuel,1,Abonnement
+1158,2023-11-01,Arkose Paris,Pack 10 séances,1,Pack
+1159,2023-11-13,Arkose Paris,1 séance plein tarif,2,Unité
+1159,2023-10-01,Arkose Lyon,1 séance plein tarif,1,Unité
+1159,2023-09-29,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1159,2023-12-12,Arkose Bordeaux,Abonnement mensuel,3,Abonnement
+1159,2023-09-08,Arkose Paris,Abonnement mensuel,3,Abonnement
+1159,2023-09-04,Arkose Paris,Abonnement mensuel,3,Abonnement
+1159,2023-12-14,Arkose Paris,1 séance plein tarif,1,Unité
+1159,2023-12-12,Arkose Paris,Pack 10 séances,2,Pack
+1159,2023-09-15,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1159,2023-09-15,Arkose Bordeaux,Pack 10 séances,2,Pack
+1159,2023-10-24,Arkose Paris,Pack 10 séances,3,Pack
+1160,2023-12-14,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1160,2023-11-21,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1160,2023-12-31,Arkose Paris,Pack 10 séances,2,Pack
+1160,2023-11-24,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1160,2023-11-24,Arkose Paris,Abonnement mensuel,3,Abonnement
+1160,2023-10-25,Arkose Paris,1 séance plein tarif,1,Unité
+1160,2023-10-26,Arkose Lyon,Pack 10 séances,1,Pack
+1160,2023-11-06,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1160,2023-10-19,Arkose Paris,Abonnement mensuel,1,Abonnement
+1161,2023-06-28,Arkose Lyon,Pack 10 séances,1,Pack
+1161,2023-10-18,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1161,2023-12-23,Arkose Paris,Abonnement mensuel,1,Abonnement
+1161,2023-08-09,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1161,2023-07-19,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1161,2023-04-23,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1161,2023-06-15,Arkose Paris,1 séance plein tarif,3,Unité
+1162,2023-12-03,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1162,2023-10-18,Arkose Paris,Abonnement mensuel,1,Abonnement
+1162,2023-11-15,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1162,2023-10-06,Arkose Paris,Pack 10 séances,1,Pack
+1162,2023-09-18,Arkose Paris,Abonnement mensuel,1,Abonnement
+1162,2023-12-21,Arkose Lyon,1 séance plein tarif,1,Unité
+1162,2023-09-16,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1162,2023-09-29,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1162,2023-11-29,Arkose Paris,Pack 10 séances,2,Pack
+1162,2023-11-29,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1162,2023-09-10,Arkose Paris,1 séance plein tarif,1,Unité
+1163,2023-10-18,Arkose Paris,Abonnement mensuel,1,Abonnement
+1163,2023-10-28,Arkose Paris,Abonnement mensuel,1,Abonnement
+1163,2023-12-27,Arkose Lyon,Pack 10 séances,1,Pack
+1163,2023-10-17,Arkose Paris,Abonnement mensuel,3,Abonnement
+1163,2023-11-04,Arkose Paris,Pack 10 séances,1,Pack
+1163,2023-11-15,Arkose Paris,Abonnement mensuel,1,Abonnement
+1163,2023-11-23,Arkose Paris,Pack 10 séances,1,Pack
+1163,2023-12-27,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1163,2023-09-19,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1163,2023-10-02,Arkose Lyon,1 séance plein tarif,1,Unité
+1163,2023-11-08,Arkose Bordeaux,1 séance plein tarif,3,Unité
+1163,2023-10-25,Arkose Lyon,1 séance plein tarif,1,Unité
+1164,2023-12-20,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1164,2023-08-27,Arkose Paris,Pack 10 séances,1,Pack
+1164,2023-12-22,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1164,2023-09-08,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1164,2023-10-28,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1164,2023-05-21,Arkose Paris,Pack 10 séances,1,Pack
+1164,2023-08-10,Arkose Paris,Abonnement mensuel,1,Abonnement
+1165,2023-08-25,Arkose Bordeaux,Pack 10 séances,1,Pack
+1165,2023-10-22,Arkose Lyon,Pack 10 séances,1,Pack
+1165,2023-05-08,Arkose Paris,1 séance plein tarif,1,Unité
+1165,2023-03-15,Arkose Paris,Abonnement mensuel,1,Abonnement
+1165,2023-07-16,Arkose Paris,1 séance plein tarif,1,Unité
+1165,2023-12-17,Arkose Paris,Abonnement mensuel,2,Abonnement
+1165,2023-07-17,Arkose Paris,1 séance plein tarif,1,Unité
+1165,2023-05-16,Arkose Bordeaux,Pack 10 séances,1,Pack
+1165,2023-08-27,Arkose Paris,1 séance plein tarif,1,Unité
+1166,2023-09-26,Arkose Bordeaux,Pack 10 séances,1,Pack
+1166,2023-12-14,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1166,2023-11-12,Arkose Paris,Pack 10 séances,2,Pack
+1166,2023-12-04,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1166,2023-12-06,Arkose Paris,Pack 10 séances,1,Pack
+1166,2023-10-28,Arkose Paris,1 séance plein tarif,1,Unité
+1166,2023-10-29,Arkose Lyon,Pack 10 séances,1,Pack
+1166,2024-01-01,Arkose Bordeaux,Pack 10 séances,1,Pack
+1166,2023-11-12,Arkose Paris,Abonnement mensuel,1,Abonnement
+1166,2023-10-20,Arkose Paris,Pack 10 séances,1,Pack
+1166,2023-11-02,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1167,2022-02-12,Arkose Bordeaux,Pack 10 séances,2,Pack
+1167,2023-01-21,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1167,2023-04-06,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1168,2022-07-26,Arkose Paris,Pack 10 séances,1,Pack
+1168,2022-10-21,Arkose Lyon,Pack 10 séances,1,Pack
+1168,2023-01-09,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1169,2023-12-12,Arkose Paris,Pack 10 séances,1,Pack
+1169,2023-04-29,Arkose Paris,1 séance plein tarif,1,Unité
+1169,2023-04-28,Arkose Lyon,Pack 10 séances,1,Pack
+1169,2023-03-23,Arkose Lyon,1 séance plein tarif,1,Unité
+1169,2023-11-26,Arkose Paris,Pack 10 séances,2,Pack
+1169,2023-09-22,Arkose Paris,Pack 10 séances,2,Pack
+1169,2023-05-22,Arkose Lyon,Abonnement mensuel,3,Abonnement
+1169,2023-10-04,Arkose Paris,Abonnement mensuel,2,Abonnement
+1169,2023-06-01,Arkose Lyon,1 séance plein tarif,1,Unité
+1170,2023-11-17,Arkose Paris,1 séance plein tarif,1,Unité
+1170,2023-10-07,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1170,2023-10-27,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1170,2023-11-05,Arkose Lyon,1 séance plein tarif,1,Unité
+1170,2023-11-26,Arkose Paris,1 séance plein tarif,1,Unité
+1170,2023-10-29,Arkose Paris,1 séance plein tarif,1,Unité
+1170,2023-09-30,Arkose Paris,1 séance plein tarif,2,Unité
+1170,2023-10-06,Arkose Paris,Pack 10 séances,3,Pack
+1170,2023-10-29,Arkose Paris,1 séance plein tarif,3,Unité
+1171,2023-10-13,Arkose Paris,1 séance plein tarif,1,Unité
+1171,2023-09-26,Arkose Lyon,1 séance plein tarif,1,Unité
+1171,2023-11-20,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1171,2023-09-26,Arkose Paris,Abonnement mensuel,1,Abonnement
+1171,2023-11-04,Arkose Paris,Abonnement mensuel,2,Abonnement
+1171,2023-11-30,Arkose Paris,Pack 10 séances,3,Pack
+1171,2023-10-23,Arkose Paris,Pack 10 séances,1,Pack
+1171,2023-12-01,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1171,2023-09-12,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1171,2023-10-14,Arkose Paris,1 séance plein tarif,1,Unité
+1172,2023-09-15,Arkose Paris,Abonnement mensuel,1,Abonnement
+1172,2023-11-27,Arkose Paris,Abonnement mensuel,1,Abonnement
+1172,2023-12-15,Arkose Lyon,Pack 10 séances,1,Pack
+1172,2023-09-21,Arkose Paris,Abonnement mensuel,1,Abonnement
+1172,2023-12-16,Arkose Bordeaux,Pack 10 séances,2,Pack
+1172,2023-10-16,Arkose Paris,Abonnement mensuel,1,Abonnement
+1172,2023-12-19,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1172,2023-09-13,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1172,2023-09-23,Arkose Bordeaux,Pack 10 séances,1,Pack
+1172,2023-12-19,Arkose Paris,Abonnement mensuel,2,Abonnement
+1173,2023-07-15,Arkose Paris,1 séance plein tarif,2,Unité
+1173,2023-09-24,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1174,2023-12-18,Arkose Paris,1 séance plein tarif,1,Unité
+1174,2023-12-29,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1174,2023-10-14,Arkose Bordeaux,1 séance plein tarif,2,Unité
+1174,2023-09-18,Arkose Paris,Abonnement mensuel,3,Abonnement
+1174,2023-12-13,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1174,2023-10-26,Arkose Paris,Pack 10 séances,1,Pack
+1174,2023-12-25,Arkose Lyon,1 séance plein tarif,1,Unité
+1174,2023-12-02,Arkose Paris,Abonnement mensuel,2,Abonnement
+1175,2023-06-12,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1175,2023-11-01,Arkose Paris,Pack 10 séances,2,Pack
+1175,2023-05-16,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1175,2023-05-01,Arkose Paris,Abonnement mensuel,1,Abonnement
+1175,2023-08-25,Arkose Paris,Abonnement mensuel,1,Abonnement
+1176,2023-11-07,Arkose Paris,Abonnement mensuel,1,Abonnement
+1176,2023-10-23,Arkose Paris,Pack 10 séances,1,Pack
+1176,2023-12-30,Arkose Paris,1 séance plein tarif,1,Unité
+1176,2023-11-20,Arkose Paris,1 séance plein tarif,2,Unité
+1176,2023-09-24,Arkose Lyon,Pack 10 séances,1,Pack
+1176,2023-10-09,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1176,2023-11-10,Arkose Paris,Abonnement mensuel,2,Abonnement
+1176,2023-12-03,Arkose Lyon,Abonnement mensuel,3,Abonnement
+1176,2023-12-13,Arkose Lyon,Pack 10 séances,1,Pack
+1177,2023-10-07,Arkose Bordeaux,Pack 10 séances,1,Pack
+1177,2023-10-11,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1177,2023-11-22,Arkose Paris,1 séance plein tarif,1,Unité
+1177,2023-12-17,Arkose Bordeaux,Pack 10 séances,1,Pack
+1177,2023-12-28,Arkose Paris,Abonnement mensuel,1,Abonnement
+1177,2023-12-28,Arkose Paris,1 séance plein tarif,1,Unité
+1177,2023-12-10,Arkose Paris,Pack 10 séances,1,Pack
+1177,2023-12-07,Arkose Paris,1 séance plein tarif,1,Unité
+1177,2023-10-29,Arkose Paris,Abonnement mensuel,2,Abonnement
+1177,2023-11-13,Arkose Paris,Pack 10 séances,1,Pack
+1178,2023-04-04,Arkose Paris,Abonnement mensuel,3,Abonnement
+1178,2023-08-05,Arkose Paris,Pack 10 séances,3,Pack
+1178,2023-03-30,Arkose Bordeaux,Pack 10 séances,1,Pack
+1178,2023-10-05,Arkose Lyon,Pack 10 séances,2,Pack
+1178,2023-04-26,Arkose Paris,Pack 10 séances,2,Pack
+1179,2023-11-29,Arkose Paris,Abonnement mensuel,1,Abonnement
+1179,2022-10-16,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1180,2023-10-21,Arkose Paris,Pack 10 séances,1,Pack
+1180,2023-09-30,Arkose Paris,1 séance plein tarif,1,Unité
+1180,2023-12-04,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1180,2023-11-18,Arkose Paris,Abonnement mensuel,1,Abonnement
+1180,2023-12-22,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1180,2023-09-06,Arkose Paris,Abonnement mensuel,3,Abonnement
+1180,2023-10-14,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1180,2023-12-31,Arkose Paris,1 séance plein tarif,2,Unité
+1180,2023-09-20,Arkose Paris,Abonnement mensuel,2,Abonnement
+1180,2023-12-08,Arkose Paris,Abonnement mensuel,1,Abonnement
+1180,2023-12-15,Arkose Paris,1 séance plein tarif,2,Unité
+1180,2023-12-12,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1180,2023-11-19,Arkose Paris,1 séance plein tarif,3,Unité
+1180,2023-11-23,Arkose Paris,Abonnement mensuel,2,Abonnement
+1181,2023-10-08,Arkose Bordeaux,Abonnement mensuel,3,Abonnement
+1181,2023-10-25,Arkose Paris,Abonnement mensuel,1,Abonnement
+1181,2023-11-30,Arkose Paris,Abonnement mensuel,3,Abonnement
+1181,2023-11-03,Arkose Paris,Abonnement mensuel,1,Abonnement
+1181,2023-09-19,Arkose Paris,Abonnement mensuel,1,Abonnement
+1181,2023-11-05,Arkose Paris,Pack 10 séances,1,Pack
+1181,2023-11-02,Arkose Paris,Pack 10 séances,1,Pack
+1181,2023-12-01,Arkose Paris,Abonnement mensuel,2,Abonnement
+1181,2024-01-01,Arkose Paris,1 séance plein tarif,1,Unité
+1181,2023-12-08,Arkose Paris,Pack 10 séances,2,Pack
+1181,2023-09-26,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1181,2023-12-30,Arkose Lyon,1 séance plein tarif,1,Unité
+1181,2023-09-20,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1182,2023-06-11,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1182,2023-04-23,Arkose Paris,1 séance plein tarif,1,Unité
+1182,2023-07-08,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1182,2023-03-16,Arkose Paris,Abonnement mensuel,1,Abonnement
+1182,2023-03-28,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1183,2023-12-17,Arkose Paris,Abonnement mensuel,1,Abonnement
+1183,2023-09-07,Arkose Paris,Pack 10 séances,2,Pack
+1183,2023-12-16,Arkose Paris,Abonnement mensuel,1,Abonnement
+1183,2023-10-01,Arkose Paris,1 séance plein tarif,1,Unité
+1183,2023-10-17,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1183,2023-09-20,Arkose Paris,Abonnement mensuel,1,Abonnement
+1183,2023-12-16,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1183,2023-11-29,Arkose Paris,Abonnement mensuel,1,Abonnement
+1183,2023-10-09,Arkose Paris,1 séance plein tarif,1,Unité
+1183,2023-09-30,Arkose Paris,Abonnement mensuel,1,Abonnement
+1183,2023-12-17,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1183,2023-11-13,Arkose Paris,Abonnement mensuel,1,Abonnement
+1183,2023-12-27,Arkose Paris,1 séance plein tarif,1,Unité
+1183,2023-10-02,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1184,2024-01-01,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1184,2023-09-15,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1184,2023-11-17,Arkose Bordeaux,Pack 10 séances,1,Pack
+1184,2023-12-04,Arkose Paris,Abonnement mensuel,1,Abonnement
+1184,2023-11-05,Arkose Paris,1 séance plein tarif,3,Unité
+1184,2023-12-08,Arkose Paris,Abonnement mensuel,1,Abonnement
+1184,2023-11-26,Arkose Lyon,Pack 10 séances,3,Pack
+1184,2023-12-13,Arkose Lyon,Pack 10 séances,1,Pack
+1184,2023-10-02,Arkose Paris,1 séance plein tarif,2,Unité
+1184,2023-09-12,Arkose Lyon,Pack 10 séances,1,Pack
+1184,2023-12-18,Arkose Paris,Abonnement mensuel,2,Abonnement
+1184,2023-09-10,Arkose Paris,Abonnement mensuel,1,Abonnement
+1184,2023-09-08,Arkose Paris,1 séance plein tarif,1,Unité
+1184,2023-10-04,Arkose Lyon,Pack 10 séances,3,Pack
+1185,2023-05-18,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1185,2022-09-06,Arkose Paris,Pack 10 séances,1,Pack
+1185,2023-10-16,Arkose Lyon,Pack 10 séances,1,Pack
+1186,2023-06-05,Arkose Lyon,Pack 10 séances,3,Pack
+1186,2022-09-09,Arkose Paris,Abonnement mensuel,1,Abonnement
+1186,2022-07-30,Arkose Paris,Pack 10 séances,1,Pack
+1187,2023-09-11,Arkose Paris,1 séance plein tarif,1,Unité
+1187,2023-10-08,Arkose Paris,1 séance plein tarif,1,Unité
+1187,2023-10-28,Arkose Paris,Pack 10 séances,1,Pack
+1187,2023-12-26,Arkose Paris,Abonnement mensuel,1,Abonnement
+1187,2023-12-01,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1187,2023-10-12,Arkose Paris,Abonnement mensuel,1,Abonnement
+1187,2023-11-23,Arkose Bordeaux,Pack 10 séances,1,Pack
+1187,2023-10-29,Arkose Bordeaux,Abonnement mensuel,3,Abonnement
+1187,2023-09-20,Arkose Lyon,Pack 10 séances,3,Pack
+1187,2023-10-08,Arkose Paris,1 séance plein tarif,3,Unité
+1188,2023-05-27,Arkose Paris,Pack 10 séances,1,Pack
+1188,2023-09-24,Arkose Lyon,1 séance plein tarif,1,Unité
+1188,2023-09-21,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1188,2023-12-26,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1188,2023-11-10,Arkose Paris,1 séance plein tarif,2,Unité
+1188,2023-09-12,Arkose Lyon,Pack 10 séances,1,Pack
+1188,2023-05-24,Arkose Paris,1 séance plein tarif,1,Unité
+1188,2023-04-14,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1188,2023-11-05,Arkose Lyon,Pack 10 séances,1,Pack
+1189,2023-09-08,Arkose Paris,Pack 10 séances,2,Pack
+1189,2023-10-15,Arkose Paris,Abonnement mensuel,1,Abonnement
+1189,2023-09-09,Arkose Paris,1 séance plein tarif,1,Unité
+1189,2023-10-16,Arkose Paris,Abonnement mensuel,2,Abonnement
+1189,2023-12-30,Arkose Paris,Pack 10 séances,3,Pack
+1189,2023-10-18,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1189,2023-10-01,Arkose Bordeaux,Pack 10 séances,1,Pack
+1189,2023-10-01,Arkose Lyon,Pack 10 séances,1,Pack
+1190,2023-09-27,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1190,2023-12-14,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1190,2023-11-23,Arkose Paris,Abonnement mensuel,1,Abonnement
+1190,2023-11-21,Arkose Paris,Abonnement mensuel,1,Abonnement
+1190,2023-10-23,Arkose Lyon,1 séance plein tarif,1,Unité
+1190,2023-10-27,Arkose Paris,Abonnement mensuel,2,Abonnement
+1190,2023-11-17,Arkose Paris,Pack 10 séances,1,Pack
+1190,2023-11-28,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1190,2023-10-03,Arkose Paris,Abonnement mensuel,1,Abonnement
+1190,2023-12-16,Arkose Bordeaux,Pack 10 séances,2,Pack
+1190,2023-10-01,Arkose Paris,1 séance plein tarif,2,Unité
+1191,2023-06-19,Arkose Paris,Pack 10 séances,1,Pack
+1191,2023-10-29,Arkose Paris,Pack 10 séances,1,Pack
+1191,2023-05-14,Arkose Paris,Pack 10 séances,1,Pack
+1191,2023-07-09,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1191,2023-11-10,Arkose Paris,Pack 10 séances,1,Pack
+1191,2023-11-07,Arkose Lyon,1 séance plein tarif,1,Unité
+1191,2023-03-17,Arkose Lyon,Pack 10 séances,2,Pack
+1191,2023-06-20,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1192,2023-10-01,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1192,2023-11-08,Arkose Lyon,Pack 10 séances,1,Pack
+1192,2023-05-14,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1192,2023-08-03,Arkose Bordeaux,Pack 10 séances,1,Pack
+1192,2023-09-10,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1193,2023-07-16,Arkose Lyon,Abonnement mensuel,3,Abonnement
+1193,2023-04-07,Arkose Paris,Abonnement mensuel,2,Abonnement
+1193,2023-12-02,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1193,2023-08-14,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1193,2023-10-27,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1193,2023-10-08,Arkose Paris,Pack 10 séances,2,Pack
+1193,2023-03-10,Arkose Paris,Pack 10 séances,2,Pack
+1194,2023-10-30,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1194,2023-08-10,Arkose Lyon,Pack 10 séances,1,Pack
+1194,2023-11-25,Arkose Lyon,1 séance plein tarif,1,Unité
+1194,2023-03-08,Arkose Paris,Abonnement mensuel,1,Abonnement
+1194,2023-07-10,Arkose Paris,1 séance plein tarif,2,Unité
+1194,2023-05-23,Arkose Paris,1 séance plein tarif,1,Unité
+1194,2023-05-21,Arkose Paris,Pack 10 séances,1,Pack
+1195,2023-09-28,Arkose Paris,Abonnement mensuel,2,Abonnement
+1195,2022-12-04,Arkose Bordeaux,Pack 10 séances,2,Pack
+1195,2023-08-22,Arkose Paris,1 séance plein tarif,2,Unité
+1195,2022-10-21,Arkose Paris,Abonnement mensuel,2,Abonnement
+1196,2023-11-26,Arkose Lyon,1 séance plein tarif,1,Unité
+1196,2023-12-02,Arkose Paris,Pack 10 séances,1,Pack
+1196,2023-09-11,Arkose Paris,Pack 10 séances,1,Pack
+1196,2023-09-06,Arkose Lyon,Pack 10 séances,1,Pack
+1196,2023-11-29,Arkose Bordeaux,Pack 10 séances,2,Pack
+1196,2023-11-04,Arkose Paris,1 séance plein tarif,1,Unité
+1196,2023-09-16,Arkose Paris,Abonnement mensuel,3,Abonnement
+1196,2023-10-31,Arkose Lyon,1 séance plein tarif,1,Unité
+1196,2023-09-19,Arkose Lyon,1 séance plein tarif,1,Unité
+1196,2023-09-20,Arkose Lyon,Pack 10 séances,2,Pack
+1196,2023-10-27,Arkose Paris,Pack 10 séances,1,Pack
+1196,2023-12-27,Arkose Paris,Abonnement mensuel,1,Abonnement
+1196,2023-11-20,Arkose Paris,Pack 10 séances,1,Pack
+1196,2023-12-23,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1197,2023-12-09,Arkose Paris,Abonnement mensuel,1,Abonnement
+1197,2023-10-01,Arkose Paris,Abonnement mensuel,1,Abonnement
+1197,2023-12-22,Arkose Paris,Pack 10 séances,1,Pack
+1197,2023-05-27,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1197,2023-10-14,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1197,2023-08-27,Arkose Lyon,Pack 10 séances,1,Pack
+1197,2023-10-19,Arkose Lyon,Pack 10 séances,1,Pack
+1198,2022-05-23,Arkose Bordeaux,Pack 10 séances,2,Pack
+1198,2022-04-28,Arkose Paris,1 séance plein tarif,1,Unité
+1198,2022-06-08,Arkose Paris,1 séance plein tarif,2,Unité
+1199,2023-06-22,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1199,2023-07-21,Arkose Paris,Pack 10 séances,3,Pack
+1199,2023-05-22,Arkose Lyon,Pack 10 séances,1,Pack
+1199,2023-10-02,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1199,2023-11-11,Arkose Paris,Abonnement mensuel,1,Abonnement
+1199,2023-10-01,Arkose Paris,1 séance plein tarif,1,Unité
+1200,2023-04-17,Arkose Paris,Pack 10 séances,1,Pack
+1200,2023-10-05,Arkose Lyon,Pack 10 séances,1,Pack
+1200,2023-11-07,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1200,2023-04-05,Arkose Paris,Abonnement mensuel,3,Abonnement
+1200,2023-04-02,Arkose Bordeaux,Pack 10 séances,1,Pack
+1201,2023-09-11,Arkose Paris,Abonnement mensuel,1,Abonnement
+1201,2023-08-03,Arkose Lyon,Pack 10 séances,1,Pack
+1201,2023-11-15,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1201,2023-03-12,Arkose Lyon,Pack 10 séances,1,Pack
+1201,2023-06-13,Arkose Lyon,Pack 10 séances,1,Pack
+1201,2023-05-31,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1201,2023-04-28,Arkose Paris,Abonnement mensuel,1,Abonnement
+1201,2023-12-11,Arkose Lyon,Pack 10 séances,1,Pack
+1201,2023-11-12,Arkose Paris,Pack 10 séances,1,Pack
+1202,2023-02-20,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1203,2023-11-24,Arkose Paris,1 séance plein tarif,1,Unité
+1203,2023-12-20,Arkose Lyon,Pack 10 séances,1,Pack
+1203,2023-12-02,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1203,2023-09-22,Arkose Paris,Pack 10 séances,1,Pack
+1203,2023-11-07,Arkose Paris,Pack 10 séances,2,Pack
+1203,2023-12-23,Arkose Paris,1 séance plein tarif,1,Unité
+1203,2023-12-18,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1203,2023-09-20,Arkose Lyon,Pack 10 séances,1,Pack
+1203,2023-09-30,Arkose Paris,Abonnement mensuel,1,Abonnement
+1204,2023-06-03,Arkose Lyon,1 séance plein tarif,2,Unité
+1204,2023-03-30,Arkose Paris,1 séance plein tarif,1,Unité
+1204,2023-03-28,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1204,2023-06-08,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1204,2023-05-09,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1205,2023-06-30,Arkose Paris,Abonnement mensuel,1,Abonnement
+1205,2023-08-17,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1205,2023-03-20,Arkose Paris,Pack 10 séances,1,Pack
+1205,2023-04-24,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1206,2023-10-03,Arkose Paris,Pack 10 séances,2,Pack
+1206,2022-05-27,Arkose Paris,Abonnement mensuel,1,Abonnement
+1206,2022-06-24,Arkose Paris,Abonnement mensuel,2,Abonnement
+1206,2023-03-09,Arkose Paris,Abonnement mensuel,2,Abonnement
+1207,2023-12-17,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1207,2023-11-26,Arkose Paris,Pack 10 séances,2,Pack
+1207,2023-10-22,Arkose Paris,1 séance plein tarif,2,Unité
+1207,2023-12-13,Arkose Paris,Abonnement mensuel,1,Abonnement
+1207,2023-09-04,Arkose Paris,Pack 10 séances,3,Pack
+1207,2023-12-15,Arkose Bordeaux,Pack 10 séances,1,Pack
+1207,2023-11-05,Arkose Paris,Pack 10 séances,2,Pack
+1207,2023-12-23,Arkose Bordeaux,Pack 10 séances,1,Pack
+1207,2023-12-18,Arkose Bordeaux,Pack 10 séances,1,Pack
+1207,2023-10-30,Arkose Paris,Abonnement mensuel,1,Abonnement
+1207,2023-12-08,Arkose Paris,Abonnement mensuel,3,Abonnement
+1207,2023-12-24,Arkose Paris,Abonnement mensuel,1,Abonnement
+1208,2023-09-26,Arkose Lyon,1 séance plein tarif,3,Unité
+1208,2023-11-27,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1208,2023-10-09,Arkose Bordeaux,Pack 10 séances,1,Pack
+1208,2023-10-14,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1208,2023-10-12,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1208,2023-12-12,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1208,2023-12-23,Arkose Lyon,1 séance plein tarif,2,Unité
+1208,2023-11-30,Arkose Lyon,1 séance plein tarif,1,Unité
+1208,2023-10-29,Arkose Paris,Pack 10 séances,1,Pack
+1208,2023-12-05,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1208,2023-09-11,Arkose Paris,Pack 10 séances,1,Pack
+1208,2023-09-28,Arkose Paris,Pack 10 séances,2,Pack
+1208,2023-09-13,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1208,2023-11-13,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1209,2023-08-25,Arkose Paris,Abonnement mensuel,3,Abonnement
+1210,2023-06-01,Arkose Bordeaux,1 séance plein tarif,2,Unité
+1211,2023-08-25,Arkose Paris,Pack 10 séances,1,Pack
+1211,2024-01-01,Arkose Paris,1 séance plein tarif,1,Unité
+1212,2023-11-17,Arkose Paris,Abonnement mensuel,1,Abonnement
+1212,2023-08-16,Arkose Paris,1 séance plein tarif,3,Unité
+1212,2023-07-08,Arkose Paris,Abonnement mensuel,3,Abonnement
+1212,2023-09-09,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1212,2023-06-20,Arkose Paris,1 séance plein tarif,3,Unité
+1213,2022-09-12,Arkose Lyon,Abonnement mensuel,3,Abonnement
+1214,2023-11-07,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1214,2023-07-17,Arkose Paris,Pack 10 séances,1,Pack
+1214,2023-06-22,Arkose Lyon,1 séance plein tarif,1,Unité
+1214,2023-03-21,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1214,2023-03-11,Arkose Paris,Abonnement mensuel,1,Abonnement
+1215,2023-09-19,Arkose Paris,Abonnement mensuel,1,Abonnement
+1216,2023-04-07,Arkose Paris,Abonnement mensuel,1,Abonnement
+1216,2022-10-09,Arkose Lyon,Pack 10 séances,1,Pack
+1216,2023-12-13,Arkose Paris,Pack 10 séances,2,Pack
+1217,2023-06-30,Arkose Paris,Pack 10 séances,1,Pack
+1217,2023-12-14,Arkose Bordeaux,Pack 10 séances,2,Pack
+1218,2022-09-24,Arkose Paris,1 séance plein tarif,1,Unité
+1218,2022-02-24,Arkose Paris,1 séance plein tarif,1,Unité
+1219,2023-12-25,Arkose Lyon,Pack 10 séances,1,Pack
+1219,2023-09-30,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1219,2023-10-10,Arkose Bordeaux,Pack 10 séances,1,Pack
+1219,2023-12-29,Arkose Lyon,Pack 10 séances,1,Pack
+1219,2023-09-22,Arkose Lyon,Pack 10 séances,1,Pack
+1219,2023-10-06,Arkose Bordeaux,Pack 10 séances,1,Pack
+1219,2023-09-07,Arkose Paris,1 séance plein tarif,1,Unité
+1219,2023-10-21,Arkose Bordeaux,Pack 10 séances,1,Pack
+1219,2023-09-28,Arkose Paris,1 séance plein tarif,1,Unité
+1219,2023-11-01,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1219,2023-09-28,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1220,2022-09-25,Arkose Paris,Abonnement mensuel,1,Abonnement
+1220,2022-06-20,Arkose Lyon,Abonnement mensuel,3,Abonnement
+1221,2023-03-29,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1221,2023-06-17,Arkose Paris,Abonnement mensuel,1,Abonnement
+1221,2023-04-28,Arkose Lyon,Pack 10 séances,2,Pack
+1221,2023-11-11,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1221,2023-12-13,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1221,2023-08-22,Arkose Paris,Pack 10 séances,1,Pack
+1221,2023-07-10,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1222,2023-04-07,Arkose Bordeaux,Pack 10 séances,1,Pack
+1222,2023-12-23,Arkose Paris,Pack 10 séances,1,Pack
+1222,2023-03-25,Arkose Paris,Abonnement mensuel,1,Abonnement
+1222,2023-04-06,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1222,2023-12-13,Arkose Paris,Abonnement mensuel,1,Abonnement
+1222,2023-08-25,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1222,2023-12-20,Arkose Paris,Abonnement mensuel,2,Abonnement
+1222,2023-11-25,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1222,2023-08-14,Arkose Lyon,Pack 10 séances,1,Pack
+1223,2022-03-09,Arkose Paris,Pack 10 séances,1,Pack
+1224,2023-08-15,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1224,2023-10-31,Arkose Lyon,1 séance plein tarif,1,Unité
+1224,2023-06-15,Arkose Paris,1 séance plein tarif,1,Unité
+1224,2023-09-08,Arkose Lyon,1 séance plein tarif,1,Unité
+1225,2023-09-19,Arkose Bordeaux,Pack 10 séances,1,Pack
+1225,2023-08-11,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1225,2023-06-30,Arkose Paris,Abonnement mensuel,1,Abonnement
+1225,2023-04-07,Arkose Lyon,Pack 10 séances,1,Pack
+1225,2023-10-22,Arkose Paris,Abonnement mensuel,1,Abonnement
+1225,2023-12-10,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1225,2023-10-31,Arkose Lyon,Pack 10 séances,2,Pack
+1225,2023-06-01,Arkose Paris,Pack 10 séances,1,Pack
+1226,2023-12-09,Arkose Lyon,Pack 10 séances,1,Pack
+1226,2023-12-23,Arkose Paris,Abonnement mensuel,3,Abonnement
+1226,2023-12-05,Arkose Paris,Abonnement mensuel,1,Abonnement
+1226,2023-09-23,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1226,2023-09-11,Arkose Bordeaux,Abonnement mensuel,3,Abonnement
+1226,2023-09-05,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1226,2023-11-05,Arkose Lyon,Pack 10 séances,3,Pack
+1226,2023-12-05,Arkose Lyon,1 séance plein tarif,1,Unité
+1226,2023-10-15,Arkose Paris,1 séance plein tarif,1,Unité
+1226,2023-09-13,Arkose Paris,Pack 10 séances,1,Pack
+1227,2023-07-18,Arkose Lyon,1 séance plein tarif,1,Unité
+1228,2023-11-06,Arkose Paris,1 séance plein tarif,1,Unité
+1228,2023-10-04,Arkose Lyon,Pack 10 séances,2,Pack
+1228,2023-10-08,Arkose Lyon,1 séance plein tarif,1,Unité
+1228,2023-04-08,Arkose Lyon,Pack 10 séances,1,Pack
+1228,2023-07-06,Arkose Paris,Pack 10 séances,1,Pack
+1228,2023-09-28,Arkose Paris,Pack 10 séances,1,Pack
+1228,2023-10-11,Arkose Paris,1 séance plein tarif,2,Unité
+1228,2023-06-24,Arkose Lyon,Pack 10 séances,1,Pack
+1228,2023-05-03,Arkose Paris,Pack 10 séances,1,Pack
+1229,2023-10-21,Arkose Lyon,Pack 10 séances,1,Pack
+1230,2023-04-24,Arkose Paris,1 séance plein tarif,1,Unité
+1230,2023-09-02,Arkose Paris,Pack 10 séances,3,Pack
+1231,2023-01-11,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1231,2022-06-08,Arkose Paris,Pack 10 séances,1,Pack
+1231,2023-02-13,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1231,2023-09-25,Arkose Paris,1 séance plein tarif,2,Unité
+1232,2022-08-17,Arkose Paris,Abonnement mensuel,1,Abonnement
+1232,2022-07-01,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1232,2022-03-23,Arkose Paris,1 séance plein tarif,1,Unité
+1233,2023-03-21,Arkose Paris,1 séance plein tarif,3,Unité
+1233,2023-12-10,Arkose Paris,Pack 10 séances,1,Pack
+1233,2023-03-25,Arkose Lyon,Pack 10 séances,3,Pack
+1233,2023-11-16,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1233,2023-10-04,Arkose Bordeaux,1 séance plein tarif,2,Unité
+1233,2023-04-17,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1234,2023-12-23,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1234,2023-12-30,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1234,2023-12-31,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1234,2023-09-10,Arkose Lyon,1 séance plein tarif,1,Unité
+1234,2023-11-24,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1234,2023-12-04,Arkose Paris,1 séance plein tarif,3,Unité
+1234,2023-12-22,Arkose Paris,Pack 10 séances,1,Pack
+1234,2023-09-13,Arkose Bordeaux,1 séance plein tarif,2,Unité
+1234,2023-10-19,Arkose Paris,Pack 10 séances,1,Pack
+1234,2023-11-07,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1234,2023-09-08,Arkose Paris,Abonnement mensuel,1,Abonnement
+1234,2023-11-27,Arkose Paris,Abonnement mensuel,1,Abonnement
+1234,2023-10-20,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1234,2024-01-01,Arkose Bordeaux,Pack 10 séances,1,Pack
+1235,2023-11-30,Arkose Lyon,1 séance plein tarif,2,Unité
+1235,2023-11-15,Arkose Paris,1 séance plein tarif,2,Unité
+1235,2023-10-25,Arkose Bordeaux,Pack 10 séances,1,Pack
+1235,2024-01-01,Arkose Paris,1 séance plein tarif,1,Unité
+1235,2023-11-03,Arkose Paris,1 séance plein tarif,2,Unité
+1235,2023-12-16,Arkose Paris,Abonnement mensuel,2,Abonnement
+1235,2023-10-18,Arkose Paris,Abonnement mensuel,2,Abonnement
+1235,2023-11-13,Arkose Lyon,Abonnement mensuel,3,Abonnement
+1235,2023-12-18,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1235,2023-12-09,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1235,2023-10-29,Arkose Paris,1 séance plein tarif,1,Unité
+1236,2023-11-02,Arkose Paris,1 séance plein tarif,2,Unité
+1236,2023-11-02,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1236,2023-12-01,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1236,2023-11-17,Arkose Bordeaux,1 séance plein tarif,3,Unité
+1236,2023-04-30,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1236,2023-09-05,Arkose Paris,Pack 10 séances,1,Pack
+1236,2023-09-07,Arkose Lyon,1 séance plein tarif,1,Unité
+1237,2023-10-14,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1237,2023-10-13,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1237,2023-09-04,Arkose Paris,Pack 10 séances,1,Pack
+1237,2023-10-28,Arkose Paris,Abonnement mensuel,1,Abonnement
+1237,2023-10-17,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1237,2023-09-18,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1237,2023-11-06,Arkose Paris,Abonnement mensuel,1,Abonnement
+1237,2023-12-20,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1237,2023-09-20,Arkose Lyon,1 séance plein tarif,1,Unité
+1237,2023-09-10,Arkose Paris,Abonnement mensuel,3,Abonnement
+1237,2023-11-30,Arkose Paris,Pack 10 séances,1,Pack
+1238,2023-11-16,Arkose Lyon,Pack 10 séances,2,Pack
+1238,2023-10-13,Arkose Bordeaux,Pack 10 séances,1,Pack
+1238,2023-11-13,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1238,2023-10-25,Arkose Lyon,Pack 10 séances,1,Pack
+1238,2023-10-06,Arkose Paris,Pack 10 séances,1,Pack
+1238,2023-11-08,Arkose Paris,Pack 10 séances,1,Pack
+1238,2023-11-11,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1238,2023-11-19,Arkose Paris,Pack 10 séances,1,Pack
+1238,2023-10-26,Arkose Paris,Pack 10 séances,1,Pack
+1238,2023-12-29,Arkose Lyon,Pack 10 séances,1,Pack
+1238,2023-09-18,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1238,2023-09-07,Arkose Paris,1 séance plein tarif,2,Unité
+1238,2023-10-27,Arkose Paris,Abonnement mensuel,1,Abonnement
+1239,2023-10-04,Arkose Paris,Abonnement mensuel,1,Abonnement
+1239,2023-12-11,Arkose Lyon,1 séance plein tarif,2,Unité
+1239,2023-10-26,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1239,2023-11-22,Arkose Paris,Pack 10 séances,1,Pack
+1239,2023-12-04,Arkose Bordeaux,Pack 10 séances,1,Pack
+1239,2023-11-02,Arkose Paris,1 séance plein tarif,2,Unité
+1239,2023-09-11,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1239,2023-10-17,Arkose Bordeaux,1 séance plein tarif,2,Unité
+1239,2023-11-24,Arkose Paris,1 séance plein tarif,1,Unité
+1240,2023-09-12,Arkose Paris,Pack 10 séances,1,Pack
+1241,2023-10-17,Arkose Paris,Abonnement mensuel,1,Abonnement
+1241,2023-12-05,Arkose Paris,Pack 10 séances,1,Pack
+1241,2023-09-26,Arkose Paris,1 séance plein tarif,1,Unité
+1241,2023-11-03,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1241,2023-12-10,Arkose Lyon,1 séance plein tarif,1,Unité
+1241,2023-12-26,Arkose Lyon,1 séance plein tarif,3,Unité
+1241,2023-10-15,Arkose Lyon,1 séance plein tarif,1,Unité
+1241,2023-10-25,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1241,2023-11-24,Arkose Paris,Pack 10 séances,3,Pack
+1241,2023-12-13,Arkose Paris,Pack 10 séances,3,Pack
+1241,2023-10-04,Arkose Lyon,1 séance plein tarif,1,Unité
+1241,2023-12-21,Arkose Lyon,1 séance plein tarif,1,Unité
+1241,2023-10-04,Arkose Lyon,Pack 10 séances,2,Pack
+1241,2023-10-16,Arkose Lyon,Pack 10 séances,1,Pack
+1242,2022-04-18,Arkose Paris,Abonnement mensuel,1,Abonnement
+1242,2023-06-13,Arkose Paris,Pack 10 séances,1,Pack
+1243,2023-09-23,Arkose Paris,Abonnement mensuel,1,Abonnement
+1243,2023-09-14,Arkose Paris,Pack 10 séances,3,Pack
+1243,2023-12-16,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1243,2023-12-30,Arkose Paris,Pack 10 séances,1,Pack
+1243,2023-10-30,Arkose Paris,Pack 10 séances,1,Pack
+1243,2023-09-27,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1243,2023-09-28,Arkose Lyon,Pack 10 séances,1,Pack
+1243,2023-11-30,Arkose Paris,Abonnement mensuel,1,Abonnement
+1243,2023-10-22,Arkose Paris,1 séance plein tarif,1,Unité
+1244,2023-11-07,Arkose Paris,Pack 10 séances,1,Pack
+1244,2023-11-01,Arkose Paris,1 séance plein tarif,1,Unité
+1244,2023-11-04,Arkose Lyon,Pack 10 séances,1,Pack
+1244,2023-12-24,Arkose Lyon,Pack 10 séances,1,Pack
+1244,2023-11-18,Arkose Paris,Pack 10 séances,1,Pack
+1244,2024-01-01,Arkose Paris,1 séance plein tarif,1,Unité
+1244,2023-10-14,Arkose Bordeaux,Abonnement mensuel,3,Abonnement
+1244,2023-11-02,Arkose Paris,Abonnement mensuel,2,Abonnement
+1244,2023-11-08,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1244,2023-11-30,Arkose Bordeaux,1 séance plein tarif,2,Unité
+1244,2023-10-14,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1245,2023-12-01,Arkose Paris,Abonnement mensuel,1,Abonnement
+1245,2023-12-17,Arkose Paris,1 séance plein tarif,3,Unité
+1245,2023-12-20,Arkose Bordeaux,Pack 10 séances,1,Pack
+1245,2023-09-25,Arkose Paris,Pack 10 séances,1,Pack
+1245,2023-12-24,Arkose Paris,1 séance plein tarif,2,Unité
+1245,2023-09-24,Arkose Paris,Pack 10 séances,2,Pack
+1245,2023-10-25,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1245,2023-09-15,Arkose Paris,Pack 10 séances,2,Pack
+1246,2022-05-02,Arkose Paris,Abonnement mensuel,2,Abonnement
+1247,2023-09-24,Arkose Paris,Pack 10 séances,2,Pack
+1247,2023-07-08,Arkose Paris,Abonnement mensuel,2,Abonnement
+1247,2023-11-04,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1247,2023-09-29,Arkose Paris,Pack 10 séances,1,Pack
+1247,2023-05-31,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1247,2023-04-15,Arkose Paris,Pack 10 séances,1,Pack
+1247,2023-03-15,Arkose Paris,1 séance plein tarif,1,Unité
+1247,2023-09-14,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1247,2023-12-23,Arkose Lyon,1 séance plein tarif,1,Unité
+1248,2023-10-27,Arkose Lyon,Pack 10 séances,1,Pack
+1248,2023-10-01,Arkose Paris,Abonnement mensuel,1,Abonnement
+1248,2023-11-03,Arkose Paris,1 séance plein tarif,1,Unité
+1248,2023-09-29,Arkose Paris,Pack 10 séances,3,Pack
+1248,2023-11-22,Arkose Paris,1 séance plein tarif,2,Unité
+1248,2023-09-27,Arkose Paris,1 séance plein tarif,2,Unité
+1248,2023-10-03,Arkose Lyon,Pack 10 séances,2,Pack
+1248,2023-10-11,Arkose Lyon,1 séance plein tarif,1,Unité
+1248,2023-09-29,Arkose Paris,Abonnement mensuel,1,Abonnement
+1248,2023-11-17,Arkose Paris,Abonnement mensuel,3,Abonnement
+1249,2023-10-28,Arkose Paris,1 séance plein tarif,1,Unité
+1249,2023-12-14,Arkose Paris,Abonnement mensuel,1,Abonnement
+1249,2023-10-28,Arkose Paris,Abonnement mensuel,1,Abonnement
+1249,2023-11-08,Arkose Paris,1 séance plein tarif,1,Unité
+1249,2023-10-19,Arkose Paris,1 séance plein tarif,1,Unité
+1249,2023-10-24,Arkose Lyon,Pack 10 séances,2,Pack
+1249,2023-10-22,Arkose Paris,Pack 10 séances,1,Pack
+1249,2023-10-04,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1249,2023-10-28,Arkose Paris,Pack 10 séances,1,Pack
+1250,2023-10-18,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1250,2023-07-16,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1250,2023-10-24,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1250,2023-04-08,Arkose Paris,Pack 10 séances,1,Pack
+1251,2023-11-08,Arkose Bordeaux,Pack 10 séances,1,Pack
+1251,2023-12-04,Arkose Bordeaux,Abonnement mensuel,3,Abonnement
+1251,2023-07-23,Arkose Paris,Abonnement mensuel,2,Abonnement
+1251,2023-07-23,Arkose Paris,1 séance plein tarif,1,Unité
+1251,2023-05-19,Arkose Bordeaux,Abonnement mensuel,3,Abonnement
+1251,2023-07-12,Arkose Paris,1 séance plein tarif,1,Unité
+1251,2023-12-12,Arkose Lyon,Pack 10 séances,1,Pack
+1251,2023-04-17,Arkose Lyon,1 séance plein tarif,1,Unité
+1251,2023-03-24,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1252,2023-12-09,Arkose Paris,Pack 10 séances,1,Pack
+1252,2023-10-25,Arkose Paris,Pack 10 séances,2,Pack
+1252,2023-11-19,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1252,2023-09-09,Arkose Paris,Pack 10 séances,1,Pack
+1252,2023-09-23,Arkose Lyon,Pack 10 séances,1,Pack
+1252,2023-09-17,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1252,2023-11-24,Arkose Lyon,Pack 10 séances,2,Pack
+1252,2023-10-18,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1252,2023-12-08,Arkose Paris,Abonnement mensuel,2,Abonnement
+1252,2023-09-06,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1252,2023-09-23,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1252,2023-09-19,Arkose Lyon,Pack 10 séances,1,Pack
+1252,2023-12-31,Arkose Lyon,1 séance plein tarif,1,Unité
+1252,2023-11-09,Arkose Paris,Abonnement mensuel,1,Abonnement
+1253,2023-12-26,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1253,2023-10-28,Arkose Lyon,Pack 10 séances,1,Pack
+1253,2023-09-17,Arkose Paris,Abonnement mensuel,1,Abonnement
+1253,2023-11-07,Arkose Lyon,Abonnement mensuel,3,Abonnement
+1253,2023-10-20,Arkose Paris,1 séance plein tarif,1,Unité
+1253,2023-09-10,Arkose Bordeaux,Abonnement mensuel,3,Abonnement
+1253,2023-12-30,Arkose Lyon,1 séance plein tarif,1,Unité
+1253,2023-09-12,Arkose Paris,Pack 10 séances,1,Pack
+1254,2023-10-04,Arkose Lyon,1 séance plein tarif,1,Unité
+1254,2023-09-06,Arkose Lyon,Abonnement mensuel,3,Abonnement
+1254,2023-09-23,Arkose Paris,Abonnement mensuel,1,Abonnement
+1254,2023-09-05,Arkose Paris,Pack 10 séances,1,Pack
+1254,2023-09-21,Arkose Lyon,Pack 10 séances,1,Pack
+1254,2023-11-11,Arkose Paris,Abonnement mensuel,2,Abonnement
+1254,2023-10-07,Arkose Bordeaux,Abonnement mensuel,3,Abonnement
+1254,2023-10-06,Arkose Paris,1 séance plein tarif,1,Unité
+1254,2023-10-14,Arkose Bordeaux,Pack 10 séances,1,Pack
+1254,2024-01-01,Arkose Lyon,Pack 10 séances,2,Pack
+1255,2023-05-12,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1255,2023-11-12,Arkose Paris,Pack 10 séances,1,Pack
+1255,2023-05-02,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1255,2023-06-19,Arkose Paris,1 séance plein tarif,1,Unité
+1255,2023-07-25,Arkose Paris,Pack 10 séances,1,Pack
+1255,2023-06-09,Arkose Paris,Abonnement mensuel,1,Abonnement
+1255,2023-09-19,Arkose Paris,Abonnement mensuel,3,Abonnement
+1255,2023-07-13,Arkose Lyon,Pack 10 séances,3,Pack
+1256,2023-12-14,Arkose Paris,Pack 10 séances,1,Pack
+1256,2023-12-30,Arkose Bordeaux,1 séance plein tarif,2,Unité
+1256,2023-10-23,Arkose Paris,Abonnement mensuel,2,Abonnement
+1256,2023-10-01,Arkose Paris,1 séance plein tarif,2,Unité
+1256,2023-11-19,Arkose Paris,Abonnement mensuel,1,Abonnement
+1256,2023-12-07,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1256,2023-11-10,Arkose Paris,1 séance plein tarif,1,Unité
+1256,2023-11-14,Arkose Bordeaux,1 séance plein tarif,2,Unité
+1256,2023-10-15,Arkose Bordeaux,Pack 10 séances,2,Pack
+1256,2023-12-06,Arkose Paris,Pack 10 séances,2,Pack
+1256,2023-10-31,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1257,2023-10-08,Arkose Bordeaux,Pack 10 séances,1,Pack
+1257,2023-10-28,Arkose Paris,Abonnement mensuel,1,Abonnement
+1257,2023-09-10,Arkose Paris,Pack 10 séances,1,Pack
+1257,2023-10-01,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1257,2023-11-11,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1257,2023-12-06,Arkose Paris,Pack 10 séances,2,Pack
+1257,2023-09-24,Arkose Paris,Pack 10 séances,2,Pack
+1257,2023-10-28,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1257,2023-09-18,Arkose Paris,1 séance plein tarif,2,Unité
+1257,2023-12-04,Arkose Paris,Pack 10 séances,1,Pack
+1257,2023-10-10,Arkose Paris,Pack 10 séances,2,Pack
+1257,2023-09-16,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1257,2023-10-31,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1258,2023-12-21,Arkose Paris,Pack 10 séances,3,Pack
+1258,2023-12-07,Arkose Lyon,Pack 10 séances,1,Pack
+1258,2022-05-05,Arkose Paris,1 séance plein tarif,1,Unité
+1259,2023-11-06,Arkose Bordeaux,Pack 10 séances,2,Pack
+1259,2024-01-01,Arkose Paris,Abonnement mensuel,1,Abonnement
+1259,2023-10-08,Arkose Lyon,Pack 10 séances,1,Pack
+1259,2023-11-16,Arkose Paris,1 séance plein tarif,1,Unité
+1259,2023-11-04,Arkose Paris,1 séance plein tarif,1,Unité
+1259,2023-10-07,Arkose Paris,Pack 10 séances,2,Pack
+1259,2023-10-31,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1259,2023-10-15,Arkose Lyon,1 séance plein tarif,3,Unité
+1260,2023-12-24,Arkose Lyon,1 séance plein tarif,1,Unité
+1260,2023-11-12,Arkose Bordeaux,Pack 10 séances,1,Pack
+1260,2023-10-26,Arkose Paris,Abonnement mensuel,1,Abonnement
+1260,2023-10-01,Arkose Bordeaux,Pack 10 séances,3,Pack
+1260,2023-11-11,Arkose Paris,Pack 10 séances,1,Pack
+1260,2023-11-11,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1260,2023-10-22,Arkose Bordeaux,1 séance plein tarif,3,Unité
+1260,2023-11-06,Arkose Paris,Pack 10 séances,2,Pack
+1260,2023-12-19,Arkose Paris,1 séance plein tarif,1,Unité
+1260,2023-09-14,Arkose Paris,Abonnement mensuel,2,Abonnement
+1260,2023-12-14,Arkose Paris,Pack 10 séances,1,Pack
+1261,2023-11-24,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1261,2023-09-01,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1261,2023-06-12,Arkose Lyon,1 séance plein tarif,1,Unité
+1261,2023-08-22,Arkose Paris,Pack 10 séances,1,Pack
+1261,2023-08-17,Arkose Bordeaux,Pack 10 séances,1,Pack
+1261,2023-04-11,Arkose Paris,1 séance plein tarif,1,Unité
+1262,2023-10-31,Arkose Paris,Abonnement mensuel,1,Abonnement
+1262,2023-12-29,Arkose Paris,1 séance plein tarif,2,Unité
+1262,2023-11-11,Arkose Paris,1 séance plein tarif,1,Unité
+1262,2023-09-14,Arkose Lyon,1 séance plein tarif,1,Unité
+1262,2023-09-29,Arkose Lyon,1 séance plein tarif,1,Unité
+1262,2023-11-09,Arkose Paris,Pack 10 séances,1,Pack
+1262,2023-11-04,Arkose Lyon,Pack 10 séances,1,Pack
+1262,2023-12-14,Arkose Paris,Pack 10 séances,1,Pack
+1262,2023-12-25,Arkose Paris,Abonnement mensuel,1,Abonnement
+1262,2023-11-16,Arkose Paris,Abonnement mensuel,1,Abonnement
+1263,2023-04-09,Arkose Paris,Abonnement mensuel,3,Abonnement
+1263,2023-09-02,Arkose Paris,Abonnement mensuel,1,Abonnement
+1263,2023-03-02,Arkose Paris,Abonnement mensuel,1,Abonnement
+1263,2022-09-25,Arkose Lyon,Pack 10 séances,1,Pack
+1264,2023-11-28,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1264,2024-01-01,Arkose Paris,Abonnement mensuel,1,Abonnement
+1264,2023-06-04,Arkose Bordeaux,1 séance plein tarif,2,Unité
+1264,2023-12-21,Arkose Paris,Pack 10 séances,1,Pack
+1264,2023-05-08,Arkose Paris,Pack 10 séances,2,Pack
+1264,2023-11-29,Arkose Paris,1 séance plein tarif,1,Unité
+1264,2023-05-20,Arkose Lyon,1 séance plein tarif,2,Unité
+1264,2023-04-26,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1264,2023-09-03,Arkose Paris,Abonnement mensuel,1,Abonnement
+1265,2023-10-25,Arkose Paris,Abonnement mensuel,1,Abonnement
+1265,2023-09-10,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1265,2023-11-09,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1265,2023-12-30,Arkose Bordeaux,1 séance plein tarif,3,Unité
+1265,2023-09-30,Arkose Paris,Pack 10 séances,1,Pack
+1265,2023-12-07,Arkose Paris,Abonnement mensuel,1,Abonnement
+1265,2023-12-25,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1265,2023-11-05,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1265,2023-10-20,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1265,2023-10-23,Arkose Paris,1 séance plein tarif,1,Unité
+1265,2023-12-04,Arkose Lyon,Pack 10 séances,2,Pack
+1265,2023-10-11,Arkose Paris,Abonnement mensuel,1,Abonnement
+1265,2023-11-29,Arkose Paris,1 séance plein tarif,2,Unité
+1266,2023-09-09,Arkose Bordeaux,Pack 10 séances,1,Pack
+1266,2023-12-20,Arkose Bordeaux,Pack 10 séances,1,Pack
+1266,2023-11-27,Arkose Paris,Abonnement mensuel,2,Abonnement
+1266,2023-12-21,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1266,2023-11-13,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1266,2023-10-08,Arkose Paris,Abonnement mensuel,1,Abonnement
+1266,2023-11-25,Arkose Bordeaux,1 séance plein tarif,2,Unité
+1266,2023-10-07,Arkose Paris,Abonnement mensuel,1,Abonnement
+1266,2023-12-15,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1267,2023-09-16,Arkose Paris,Abonnement mensuel,1,Abonnement
+1267,2023-12-09,Arkose Paris,Pack 10 séances,1,Pack
+1267,2023-10-11,Arkose Lyon,Pack 10 séances,1,Pack
+1267,2023-11-23,Arkose Paris,Pack 10 séances,1,Pack
+1267,2023-12-19,Arkose Paris,Pack 10 séances,1,Pack
+1267,2023-12-29,Arkose Bordeaux,Pack 10 séances,1,Pack
+1267,2023-11-06,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1267,2023-10-14,Arkose Paris,1 séance plein tarif,2,Unité
+1267,2023-11-16,Arkose Lyon,1 séance plein tarif,1,Unité
+1268,2023-09-08,Arkose Bordeaux,Pack 10 séances,1,Pack
+1268,2023-05-12,Arkose Bordeaux,Pack 10 séances,1,Pack
+1268,2023-04-28,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1268,2023-08-21,Arkose Lyon,Pack 10 séances,1,Pack
+1268,2023-10-23,Arkose Paris,Abonnement mensuel,1,Abonnement
+1268,2023-03-22,Arkose Lyon,Pack 10 séances,1,Pack
+1269,2023-12-06,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1269,2023-10-17,Arkose Paris,Pack 10 séances,2,Pack
+1269,2023-09-30,Arkose Lyon,Pack 10 séances,2,Pack
+1269,2023-10-17,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1269,2023-12-27,Arkose Bordeaux,Pack 10 séances,1,Pack
+1269,2023-09-12,Arkose Lyon,Pack 10 séances,1,Pack
+1269,2023-12-09,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1269,2023-09-05,Arkose Lyon,Pack 10 séances,1,Pack
+1269,2023-09-08,Arkose Bordeaux,Pack 10 séances,1,Pack
+1269,2023-09-16,Arkose Paris,Pack 10 séances,3,Pack
+1270,2023-10-03,Arkose Paris,Abonnement mensuel,2,Abonnement
+1270,2023-09-17,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1270,2023-12-19,Arkose Lyon,1 séance plein tarif,1,Unité
+1270,2023-11-05,Arkose Paris,Abonnement mensuel,3,Abonnement
+1270,2023-12-01,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1270,2023-11-10,Arkose Paris,1 séance plein tarif,3,Unité
+1270,2023-10-16,Arkose Paris,Abonnement mensuel,2,Abonnement
+1270,2023-10-10,Arkose Paris,Abonnement mensuel,1,Abonnement
+1270,2023-09-19,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1270,2023-09-27,Arkose Lyon,1 séance plein tarif,1,Unité
+1270,2023-10-14,Arkose Paris,1 séance plein tarif,1,Unité
+1270,2023-09-09,Arkose Paris,1 séance plein tarif,1,Unité
+1270,2023-11-06,Arkose Paris,1 séance plein tarif,1,Unité
+1270,2023-10-01,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1271,2023-05-02,Arkose Paris,Pack 10 séances,1,Pack
+1271,2023-09-09,Arkose Paris,Abonnement mensuel,1,Abonnement
+1271,2023-12-21,Arkose Paris,1 séance plein tarif,2,Unité
+1272,2023-12-04,Arkose Paris,Abonnement mensuel,3,Abonnement
+1272,2023-12-18,Arkose Paris,Abonnement mensuel,1,Abonnement
+1272,2023-06-16,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1272,2023-11-02,Arkose Paris,Pack 10 séances,3,Pack
+1272,2023-07-31,Arkose Paris,Abonnement mensuel,1,Abonnement
+1272,2023-07-25,Arkose Paris,Abonnement mensuel,1,Abonnement
+1272,2023-09-29,Arkose Paris,1 séance plein tarif,1,Unité
+1272,2023-06-29,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1272,2023-08-30,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1273,2023-10-25,Arkose Paris,Pack 10 séances,1,Pack
+1273,2023-09-25,Arkose Paris,1 séance plein tarif,1,Unité
+1273,2022-06-07,Arkose Lyon,Pack 10 séances,1,Pack
+1274,2023-12-29,Arkose Paris,Pack 10 séances,3,Pack
+1274,2023-08-12,Arkose Paris,Pack 10 séances,2,Pack
+1274,2023-07-01,Arkose Paris,Abonnement mensuel,1,Abonnement
+1274,2023-11-10,Arkose Paris,1 séance plein tarif,1,Unité
+1275,2023-10-06,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1275,2023-11-11,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1275,2023-05-07,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1275,2023-03-31,Arkose Paris,1 séance plein tarif,1,Unité
+1275,2023-05-13,Arkose Lyon,1 séance plein tarif,2,Unité
+1275,2023-11-11,Arkose Bordeaux,Pack 10 séances,2,Pack
+1275,2023-11-20,Arkose Lyon,1 séance plein tarif,2,Unité
+1275,2023-04-22,Arkose Paris,Abonnement mensuel,1,Abonnement
+1275,2023-04-22,Arkose Paris,1 séance plein tarif,1,Unité
+1276,2023-09-16,Arkose Paris,Abonnement mensuel,1,Abonnement
+1276,2023-10-11,Arkose Paris,Abonnement mensuel,1,Abonnement
+1276,2023-10-31,Arkose Paris,1 séance plein tarif,2,Unité
+1276,2023-12-18,Arkose Lyon,1 séance plein tarif,1,Unité
+1276,2023-04-17,Arkose Lyon,Pack 10 séances,1,Pack
+1277,2022-07-30,Arkose Paris,Pack 10 séances,1,Pack
+1278,2023-03-29,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1278,2023-09-19,Arkose Paris,Abonnement mensuel,1,Abonnement
+1278,2023-10-07,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1278,2023-10-22,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1278,2023-07-12,Arkose Paris,1 séance plein tarif,1,Unité
+1279,2023-08-09,Arkose Paris,Pack 10 séances,1,Pack
+1279,2023-05-16,Arkose Paris,Pack 10 séances,1,Pack
+1279,2023-07-20,Arkose Paris,Abonnement mensuel,2,Abonnement
+1279,2023-06-21,Arkose Bordeaux,Pack 10 séances,2,Pack
+1279,2023-10-04,Arkose Bordeaux,Pack 10 séances,1,Pack
+1279,2023-12-20,Arkose Lyon,Pack 10 séances,1,Pack
+1280,2022-06-09,Arkose Paris,Pack 10 séances,2,Pack
+1281,2023-10-16,Arkose Paris,Pack 10 séances,1,Pack
+1281,2022-09-15,Arkose Paris,1 séance plein tarif,1,Unité
+1281,2023-04-02,Arkose Paris,Pack 10 séances,1,Pack
+1281,2022-07-29,Arkose Paris,Abonnement mensuel,1,Abonnement
+1282,2023-12-05,Arkose Paris,Pack 10 séances,1,Pack
+1282,2023-10-27,Arkose Paris,Abonnement mensuel,1,Abonnement
+1282,2023-12-05,Arkose Paris,Abonnement mensuel,3,Abonnement
+1282,2023-12-20,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1282,2023-11-09,Arkose Lyon,Pack 10 séances,1,Pack
+1282,2023-09-05,Arkose Paris,Abonnement mensuel,1,Abonnement
+1282,2023-11-23,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1282,2023-10-08,Arkose Lyon,1 séance plein tarif,1,Unité
+1282,2023-10-10,Arkose Paris,Pack 10 séances,1,Pack
+1282,2023-10-08,Arkose Paris,Abonnement mensuel,1,Abonnement
+1283,2023-06-24,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1283,2023-05-21,Arkose Lyon,Pack 10 séances,2,Pack
+1283,2023-05-20,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1283,2023-07-21,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1283,2023-03-21,Arkose Lyon,1 séance plein tarif,2,Unité
+1283,2023-09-03,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1284,2023-06-16,Arkose Bordeaux,Pack 10 séances,3,Pack
+1284,2023-10-23,Arkose Paris,Pack 10 séances,1,Pack
+1284,2023-12-20,Arkose Lyon,Pack 10 séances,1,Pack
+1284,2023-04-23,Arkose Paris,Pack 10 séances,1,Pack
+1284,2023-10-27,Arkose Bordeaux,Pack 10 séances,2,Pack
+1284,2023-03-24,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1285,2023-10-08,Arkose Paris,Abonnement mensuel,1,Abonnement
+1285,2023-10-02,Arkose Paris,Abonnement mensuel,1,Abonnement
+1285,2023-12-12,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1285,2023-12-16,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1285,2023-10-08,Arkose Paris,1 séance plein tarif,1,Unité
+1285,2023-10-04,Arkose Paris,Abonnement mensuel,2,Abonnement
+1285,2023-10-31,Arkose Paris,1 séance plein tarif,1,Unité
+1285,2023-09-15,Arkose Paris,Pack 10 séances,1,Pack
+1286,2023-11-10,Arkose Paris,Abonnement mensuel,3,Abonnement
+1286,2023-12-01,Arkose Paris,Pack 10 séances,1,Pack
+1286,2023-09-12,Arkose Paris,Pack 10 séances,1,Pack
+1286,2023-11-05,Arkose Paris,1 séance plein tarif,1,Unité
+1286,2023-09-16,Arkose Paris,Pack 10 séances,2,Pack
+1286,2023-12-13,Arkose Paris,1 séance plein tarif,1,Unité
+1286,2023-10-14,Arkose Paris,Pack 10 séances,2,Pack
+1286,2023-10-16,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1286,2023-09-13,Arkose Paris,Pack 10 séances,1,Pack
+1286,2023-10-01,Arkose Lyon,Abonnement mensuel,3,Abonnement
+1286,2023-10-07,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1286,2023-11-18,Arkose Lyon,1 séance plein tarif,1,Unité
+1286,2023-11-12,Arkose Paris,Pack 10 séances,1,Pack
+1286,2023-09-15,Arkose Paris,Pack 10 séances,1,Pack
+1287,2023-07-17,Arkose Lyon,1 séance plein tarif,1,Unité
+1288,2022-04-30,Arkose Lyon,1 séance plein tarif,1,Unité
+1288,2023-09-03,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1288,2023-12-20,Arkose Paris,Pack 10 séances,1,Pack
+1288,2023-11-17,Arkose Bordeaux,Pack 10 séances,1,Pack
+1289,2023-10-23,Arkose Paris,1 séance plein tarif,2,Unité
+1289,2023-11-17,Arkose Lyon,1 séance plein tarif,1,Unité
+1289,2023-12-05,Arkose Lyon,Abonnement mensuel,3,Abonnement
+1289,2023-10-17,Arkose Paris,Abonnement mensuel,3,Abonnement
+1289,2023-11-04,Arkose Paris,1 séance plein tarif,3,Unité
+1289,2023-09-29,Arkose Paris,Pack 10 séances,1,Pack
+1289,2023-11-30,Arkose Bordeaux,Pack 10 séances,1,Pack
+1289,2023-09-04,Arkose Lyon,Pack 10 séances,1,Pack
+1289,2023-11-07,Arkose Paris,Abonnement mensuel,1,Abonnement
+1289,2023-11-07,Arkose Paris,Abonnement mensuel,1,Abonnement
+1289,2023-09-19,Arkose Paris,1 séance plein tarif,1,Unité
+1289,2023-10-18,Arkose Paris,1 séance plein tarif,2,Unité
+1289,2023-10-10,Arkose Paris,Pack 10 séances,2,Pack
+1290,2023-11-22,Arkose Paris,Pack 10 séances,1,Pack
+1290,2023-04-07,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1290,2023-05-30,Arkose Bordeaux,Pack 10 séances,2,Pack
+1290,2023-05-07,Arkose Bordeaux,1 séance plein tarif,1,Unité
+1290,2023-07-20,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1290,2023-03-29,Arkose Paris,Abonnement mensuel,1,Abonnement
+1290,2023-09-21,Arkose Paris,Pack 10 séances,1,Pack
+1291,2023-12-25,Arkose Paris,Abonnement mensuel,1,Abonnement
+1291,2023-06-28,Arkose Paris,Abonnement mensuel,2,Abonnement
+1291,2023-07-13,Arkose Bordeaux,1 séance plein tarif,3,Unité
+1291,2023-12-05,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1291,2023-03-28,Arkose Lyon,1 séance plein tarif,2,Unité
+1291,2023-05-21,Arkose Lyon,1 séance plein tarif,1,Unité
+1291,2023-04-25,Arkose Paris,Pack 10 séances,1,Pack
+1291,2023-10-05,Arkose Lyon,Pack 10 séances,2,Pack
+1292,2023-10-26,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1292,2023-12-13,Arkose Paris,Pack 10 séances,1,Pack
+1292,2023-10-17,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1292,2023-05-30,Arkose Lyon,Pack 10 séances,1,Pack
+1292,2023-12-21,Arkose Lyon,Abonnement mensuel,3,Abonnement
+1292,2023-04-04,Arkose Paris,Pack 10 séances,1,Pack
+1293,2023-04-05,Arkose Paris,1 séance plein tarif,2,Unité
+1293,2023-07-18,Arkose Paris,1 séance plein tarif,3,Unité
+1293,2023-10-15,Arkose Paris,Pack 10 séances,2,Pack
+1293,2023-10-24,Arkose Paris,Abonnement mensuel,1,Abonnement
+1293,2023-10-25,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1293,2023-11-06,Arkose Lyon,1 séance plein tarif,1,Unité
+1293,2023-06-29,Arkose Lyon,Pack 10 séances,1,Pack
+1294,2023-11-12,Arkose Paris,Pack 10 séances,1,Pack
+1294,2023-05-28,Arkose Paris,Pack 10 séances,1,Pack
+1294,2023-04-14,Arkose Paris,Abonnement mensuel,1,Abonnement
+1294,2023-05-01,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1294,2023-05-01,Arkose Bordeaux,Pack 10 séances,1,Pack
+1294,2023-05-23,Arkose Paris,Pack 10 séances,1,Pack
+1295,2023-12-07,Arkose Lyon,Pack 10 séances,3,Pack
+1295,2023-04-13,Arkose Bordeaux,Pack 10 séances,1,Pack
+1295,2023-07-18,Arkose Lyon,1 séance plein tarif,2,Unité
+1295,2023-11-01,Arkose Paris,Pack 10 séances,3,Pack
+1296,2022-09-13,Arkose Lyon,Abonnement mensuel,2,Abonnement
+1296,2022-08-18,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1296,2023-03-18,Arkose Paris,Pack 10 séances,1,Pack
+1297,2023-04-09,Arkose Lyon,Pack 10 séances,1,Pack
+1297,2023-09-28,Arkose Lyon,Pack 10 séances,1,Pack
+1297,2023-09-06,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1297,2023-08-27,Arkose Paris,Abonnement mensuel,1,Abonnement
+1297,2023-09-13,Arkose Paris,Pack 10 séances,3,Pack
+1298,2022-10-07,Arkose Lyon,Pack 10 séances,1,Pack
+1298,2023-07-19,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1299,2023-10-24,Arkose Paris,Pack 10 séances,3,Pack
+1299,2023-10-01,Arkose Bordeaux,Abonnement mensuel,1,Abonnement
+1299,2023-12-06,Arkose Paris,Pack 10 séances,3,Pack
+1299,2023-12-25,Arkose Lyon,Abonnement mensuel,1,Abonnement
+1299,2023-09-30,Arkose Lyon,1 séance plein tarif,1,Unité
+1299,2023-10-17,Arkose Lyon,Pack 10 séances,1,Pack
+1299,2023-11-08,Arkose Bordeaux,Abonnement mensuel,2,Abonnement
+1299,2023-12-10,Arkose Lyon,Abonnement mensuel,1,Abonnement
