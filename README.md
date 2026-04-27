@@ -13,13 +13,13 @@ Ce projet vise à analyser l’activité des clients d’Arkose afin de :
 
 ##  Méthodologie
 
-### 🔹 1. Analyse des données (SQL / Python)
+###  1. Analyse des données (SQL / Python)
 
 * Analyse des volumes de passages par période
 * Étude des préférences (type de forfait, établissement)
 * Nettoyage et préparation des données
 
-### 🔹 2. Segmentation client (Python)
+###  2. Segmentation client (Python)
 
 * Calcul de la récence, fréquence et volume
 * Classification des clients en :
@@ -29,7 +29,7 @@ Ce projet vise à analyser l’activité des clients d’Arkose afin de :
   * À risque
   * Inactif
 
-### 🔹 3. Data Modeling & DAX (Power BI)
+###  3. Data Modeling & DAX (Power BI)
 
 * Création d’un modèle de données relationnel
 * Développement de mesures DAX :
@@ -40,7 +40,7 @@ Ce projet vise à analyser l’activité des clients d’Arkose afin de :
   * Taux d’inactivité
   * Clients actifs / à risque
 
-### 🔹 4. Visualisation (Power BI)
+###  4. Visualisation (Power BI)
 
 * Création d’un dashboard interactif
 * Analyse par segment, période, offre et établissement
@@ -53,7 +53,7 @@ Ce projet vise à analyser l’activité des clients d’Arkose afin de :
 
 ---
 
-## 🔍 Insights clés
+##  Insights clés
 
 * Les clients très actifs génèrent le volume le plus important
 * Une partie des clients est à risque de désengagement
